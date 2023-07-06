@@ -1,0 +1,5100 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x03
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	767
+	Class:	768
+	Class:	769
+	Class:	770
+	Class:	771
+	Class:	772
+	Class:	773
+	Class:	774
+	Class:	775
+	Class:	776
+	Class:	777
+	Class:	778
+	Class:	779
+	Class:	780
+	Class:	781
+	Class:	782
+	Class:	783
+	Class:	784
+	Class:	785
+	Class:	786
+	Class:	787
+	Class:	788
+	Class:	789
+	Class:	790
+	Class:	791
+	Class:	792
+	Class:	793
+	Class:	794
+	Class:	795
+	Class:	796
+	Class:	797
+	Class:	798
+	Class:	799
+	Class:	800
+	Class:	801
+	Class:	802
+	Class:	803
+	Class:	804
+	Class:	805
+	Class:	806
+	Class:	807
+	Class:	808
+	Class:	809
+	Class:	810
+	Class:	811
+	Class:	812
+	Class:	813
+	Class:	814
+	Class:	815
+	Class:	816
+	Class:	817
+	Class:	818
+	Class:	819
+	Class:	820
+	Class:	821
+	Class:	822
+	Class:	823
+	Class:	824
+	Class:	825
+	Class:	826
+	Class:	827
+	Class:	828
+	Class:	829
+	Class:	830
+	Class:	831
+	Class:	832
+	Class:	833
+	Class:	834
+	Class:	835
+	Class:	836
+	Class:	837
+	Class:	838
+	Class:	839
+	Class:	840
+	Class:	841
+	Class:	842
+	Class:	843
+	Class:	844
+	Class:	845
+	Class:	846
+	Class:	847
+	Class:	848
+	Class:	849
+	Class:	850
+	Class:	851
+	Class:	852
+	Class:	853
+	Class:	854
+	StdDevs:	1.00000000000000
+	NullSym:	855
+	NullValues:	864
+	StatValues:	865
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Kkod"
+)
+
+(SymList.4
+	Child:	5
+	Child:	13
+	Child:	21
+	Child:	29
+	Child:	37
+	Child:	45
+	Child:	53
+	Child:	61
+	Child:	69
+	Child:	77
+	Child:	85
+	Child:	93
+	Child:	101
+	Child:	109
+	Child:	117
+	Child:	125
+	Child:	133
+	Child:	141
+	Child:	149
+	Child:	157
+	Child:	165
+	Child:	173
+	Child:	181
+	Child:	189
+	Child:	198
+	Child:	207
+	Child:	216
+	Child:	225
+	Child:	234
+	Child:	243
+	Child:	252
+	Child:	261
+	Child:	270
+	Child:	279
+	Child:	288
+	Child:	297
+	Child:	306
+	Child:	315
+	Child:	324
+	Child:	333
+	Child:	342
+	Child:	351
+	Child:	360
+	Child:	369
+	Child:	378
+	Child:	387
+	Child:	396
+	Child:	405
+	Child:	413
+	Child:	421
+	Child:	429
+	Child:	438
+	Child:	447
+	Child:	456
+	Child:	464
+	Child:	472
+	Child:	481
+	Child:	490
+	Child:	499
+	Child:	508
+	Child:	517
+	Child:	526
+	Child:	535
+	Child:	544
+	Child:	553
+	Child:	562
+	Child:	571
+	Child:	580
+	Child:	588
+	Child:	596
+	Child:	605
+	Child:	614
+	Child:	623
+	Child:	632
+	Child:	641
+	Child:	650
+	Child:	659
+	Child:	668
+	Child:	677
+	Child:	686
+	Child:	695
+	Child:	704
+	Child:	713
+	Child:	722
+	Child:	731
+	Child:	740
+	Child:	749
+	Child:	758
+)
+
+(TxSym.5
+	Color:	6
+	Font:	7
+	BgColor:	11
+	OlColor:	12
+	Size:	12.00000000000000
+)
+
+(TClr.6
+)
+
+(NFont.7
+	Family:	8
+	Name:	9
+	Style:	10
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.8
+	S:	"GSDText"
+)
+
+(AVStr.9
+	S:	"GSDText"
+)
+
+(AVStr.10
+	S:	"Normal"
+)
+
+(TClr.11
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.12
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.13
+	Color:	14
+	Font:	15
+	BgColor:	19
+	OlColor:	20
+	Size:	12.00000000000000
+)
+
+(TClr.14
+)
+
+(NFont.15
+	Family:	16
+	Name:	17
+	Style:	18
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.16
+	S:	"GSDText"
+)
+
+(AVStr.17
+	S:	"GSDText"
+)
+
+(AVStr.18
+	S:	"Normal"
+)
+
+(TClr.19
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.20
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.21
+	Color:	22
+	Font:	23
+	BgColor:	27
+	OlColor:	28
+	Size:	12.00000000000000
+)
+
+(TClr.22
+)
+
+(NFont.23
+	Family:	24
+	Name:	25
+	Style:	26
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.24
+	S:	"GSDText"
+)
+
+(AVStr.25
+	S:	"GSDText"
+)
+
+(AVStr.26
+	S:	"Normal"
+)
+
+(TClr.27
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.28
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.29
+	Color:	30
+	Font:	31
+	BgColor:	35
+	OlColor:	36
+	Size:	12.00000000000000
+)
+
+(TClr.30
+)
+
+(NFont.31
+	Family:	32
+	Name:	33
+	Style:	34
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.32
+	S:	"GSDText"
+)
+
+(AVStr.33
+	S:	"GSDText"
+)
+
+(AVStr.34
+	S:	"Normal"
+)
+
+(TClr.35
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.36
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.37
+	Color:	38
+	Font:	39
+	BgColor:	43
+	OlColor:	44
+	Size:	12.00000000000000
+)
+
+(TClr.38
+)
+
+(NFont.39
+	Family:	40
+	Name:	41
+	Style:	42
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.40
+	S:	"GSDText"
+)
+
+(AVStr.41
+	S:	"GSDText"
+)
+
+(AVStr.42
+	S:	"Normal"
+)
+
+(TClr.43
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.44
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.45
+	Color:	46
+	Font:	47
+	BgColor:	51
+	OlColor:	52
+	Size:	12.00000000000000
+)
+
+(TClr.46
+)
+
+(NFont.47
+	Family:	48
+	Name:	49
+	Style:	50
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.48
+	S:	"GSDText"
+)
+
+(AVStr.49
+	S:	"GSDText"
+)
+
+(AVStr.50
+	S:	"Normal"
+)
+
+(TClr.51
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.52
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.53
+	Color:	54
+	Font:	55
+	BgColor:	59
+	OlColor:	60
+	Size:	12.00000000000000
+)
+
+(TClr.54
+)
+
+(NFont.55
+	Family:	56
+	Name:	57
+	Style:	58
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.56
+	S:	"GSDText"
+)
+
+(AVStr.57
+	S:	"GSDText"
+)
+
+(AVStr.58
+	S:	"Normal"
+)
+
+(TClr.59
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.60
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.61
+	Color:	62
+	Font:	63
+	BgColor:	67
+	OlColor:	68
+	Size:	12.00000000000000
+)
+
+(TClr.62
+)
+
+(NFont.63
+	Family:	64
+	Name:	65
+	Style:	66
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.64
+	S:	"GSDText"
+)
+
+(AVStr.65
+	S:	"GSDText"
+)
+
+(AVStr.66
+	S:	"Normal"
+)
+
+(TClr.67
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.68
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.69
+	Color:	70
+	Font:	71
+	BgColor:	75
+	OlColor:	76
+	Size:	12.00000000000000
+)
+
+(TClr.70
+)
+
+(NFont.71
+	Family:	72
+	Name:	73
+	Style:	74
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.72
+	S:	"GSDText"
+)
+
+(AVStr.73
+	S:	"GSDText"
+)
+
+(AVStr.74
+	S:	"Normal"
+)
+
+(TClr.75
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.76
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.77
+	Color:	78
+	Font:	79
+	BgColor:	83
+	OlColor:	84
+	Size:	12.00000000000000
+)
+
+(TClr.78
+)
+
+(NFont.79
+	Family:	80
+	Name:	81
+	Style:	82
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.80
+	S:	"GSDText"
+)
+
+(AVStr.81
+	S:	"GSDText"
+)
+
+(AVStr.82
+	S:	"Normal"
+)
+
+(TClr.83
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.84
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.85
+	Color:	86
+	Font:	87
+	BgColor:	91
+	OlColor:	92
+	Size:	12.00000000000000
+)
+
+(TClr.86
+)
+
+(NFont.87
+	Family:	88
+	Name:	89
+	Style:	90
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.88
+	S:	"GSDText"
+)
+
+(AVStr.89
+	S:	"GSDText"
+)
+
+(AVStr.90
+	S:	"Normal"
+)
+
+(TClr.91
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.92
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.93
+	Color:	94
+	Font:	95
+	BgColor:	99
+	OlColor:	100
+	Size:	12.00000000000000
+)
+
+(TClr.94
+)
+
+(NFont.95
+	Family:	96
+	Name:	97
+	Style:	98
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.96
+	S:	"GSDText"
+)
+
+(AVStr.97
+	S:	"GSDText"
+)
+
+(AVStr.98
+	S:	"Normal"
+)
+
+(TClr.99
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.100
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.101
+	Color:	102
+	Font:	103
+	BgColor:	107
+	OlColor:	108
+	Size:	12.00000000000000
+)
+
+(TClr.102
+)
+
+(NFont.103
+	Family:	104
+	Name:	105
+	Style:	106
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.104
+	S:	"GSDText"
+)
+
+(AVStr.105
+	S:	"GSDText"
+)
+
+(AVStr.106
+	S:	"Normal"
+)
+
+(TClr.107
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.108
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.109
+	Color:	110
+	Font:	111
+	BgColor:	115
+	OlColor:	116
+	Size:	12.00000000000000
+)
+
+(TClr.110
+)
+
+(NFont.111
+	Family:	112
+	Name:	113
+	Style:	114
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.112
+	S:	"Abadi MT Condensed Extra Bold"
+)
+
+(AVStr.113
+	S:	"Abadi MT Condensed Extra Bold"
+)
+
+(AVStr.114
+	S:	"Normal"
+)
+
+(TClr.115
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.116
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.117
+	Color:	118
+	Font:	119
+	BgColor:	123
+	OlColor:	124
+	Size:	12.00000000000000
+)
+
+(TClr.118
+)
+
+(NFont.119
+	Family:	120
+	Name:	121
+	Style:	122
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.120
+	S:	"GSDText"
+)
+
+(AVStr.121
+	S:	"GSDText"
+)
+
+(AVStr.122
+	S:	"Normal"
+)
+
+(TClr.123
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.124
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.125
+	Color:	126
+	Font:	127
+	BgColor:	131
+	OlColor:	132
+	Size:	12.00000000000000
+)
+
+(TClr.126
+)
+
+(NFont.127
+	Family:	128
+	Name:	129
+	Style:	130
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.128
+	S:	"GSDText"
+)
+
+(AVStr.129
+	S:	"GSDText"
+)
+
+(AVStr.130
+	S:	"Normal"
+)
+
+(TClr.131
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.132
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.133
+	Color:	134
+	Font:	135
+	BgColor:	139
+	OlColor:	140
+	Size:	12.00000000000000
+)
+
+(TClr.134
+)
+
+(NFont.135
+	Family:	136
+	Name:	137
+	Style:	138
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.136
+	S:	"GSDText"
+)
+
+(AVStr.137
+	S:	"GSDText"
+)
+
+(AVStr.138
+	S:	"Normal"
+)
+
+(TClr.139
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.140
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.141
+	Color:	142
+	Font:	143
+	BgColor:	147
+	OlColor:	148
+	Size:	12.00000000000000
+)
+
+(TClr.142
+)
+
+(NFont.143
+	Family:	144
+	Name:	145
+	Style:	146
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.144
+	S:	"GSDText"
+)
+
+(AVStr.145
+	S:	"GSDText"
+)
+
+(AVStr.146
+	S:	"Normal"
+)
+
+(TClr.147
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.148
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.149
+	Color:	150
+	Font:	151
+	BgColor:	155
+	OlColor:	156
+	Size:	12.00000000000000
+)
+
+(TClr.150
+)
+
+(NFont.151
+	Family:	152
+	Name:	153
+	Style:	154
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.152
+	S:	"Abadi MT Condensed Light"
+)
+
+(AVStr.153
+	S:	"Abadi MT Condensed Light"
+)
+
+(AVStr.154
+	S:	"Normal"
+)
+
+(TClr.155
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.156
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.157
+	Color:	158
+	Font:	159
+	BgColor:	163
+	OlColor:	164
+	Size:	12.00000000000000
+)
+
+(TClr.158
+)
+
+(NFont.159
+	Family:	160
+	Name:	161
+	Style:	162
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.160
+	S:	"Abadi MT Condensed Light"
+)
+
+(AVStr.161
+	S:	"Abadi MT Condensed Light"
+)
+
+(AVStr.162
+	S:	"Normal"
+)
+
+(TClr.163
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.164
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.165
+	Color:	166
+	Font:	167
+	BgColor:	171
+	OlColor:	172
+	Size:	12.00000000000000
+)
+
+(TClr.166
+)
+
+(NFont.167
+	Family:	168
+	Name:	169
+	Style:	170
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.168
+	S:	"Abadi MT Condensed Light"
+)
+
+(AVStr.169
+	S:	"Abadi MT Condensed Light"
+)
+
+(AVStr.170
+	S:	"Normal"
+)
+
+(TClr.171
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.172
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.173
+	Color:	174
+	Font:	175
+	BgColor:	179
+	OlColor:	180
+	Size:	12.00000000000000
+)
+
+(TClr.174
+)
+
+(NFont.175
+	Family:	176
+	Name:	177
+	Style:	178
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.176
+	S:	"Abadi MT Condensed Light"
+)
+
+(AVStr.177
+	S:	"Abadi MT Condensed Light"
+)
+
+(AVStr.178
+	S:	"Normal"
+)
+
+(TClr.179
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.180
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.181
+	Color:	182
+	Font:	183
+	BgColor:	187
+	OlColor:	188
+	Size:	12.00000000000000
+)
+
+(TClr.182
+)
+
+(NFont.183
+	Family:	184
+	Name:	185
+	Style:	186
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.184
+	S:	"Abadi MT Condensed Light"
+)
+
+(AVStr.185
+	S:	"Abadi MT Condensed Light"
+)
+
+(AVStr.186
+	S:	"Normal"
+)
+
+(TClr.187
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.188
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.189
+	Color:	190
+	Font:	191
+	BgColor:	196
+	OlColor:	197
+	Size:	12.00000000000000
+)
+
+(TClr.190
+)
+
+(NFont.191
+	Family:	192
+	Name:	193
+	Style:	194
+	CommonFamily:	195
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.192
+	S:	"Arial"
+)
+
+(AVStr.193
+	S:	"Arial Kursiv"
+)
+
+(AVStr.194
+	S:	"Kursiv"
+)
+
+(AVStr.195
+	S:	"Helvetica"
+)
+
+(TClr.196
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.197
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.198
+	Color:	199
+	Font:	200
+	BgColor:	205
+	OlColor:	206
+	Size:	12.00000000000000
+)
+
+(TClr.199
+)
+
+(NFont.200
+	Family:	201
+	Name:	202
+	Style:	203
+	CommonFamily:	204
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.201
+	S:	"Arial"
+)
+
+(AVStr.202
+	S:	"Arial Kursiv"
+)
+
+(AVStr.203
+	S:	"Kursiv"
+)
+
+(AVStr.204
+	S:	"Helvetica"
+)
+
+(TClr.205
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.206
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.207
+	Color:	208
+	Font:	209
+	BgColor:	214
+	OlColor:	215
+	Size:	12.00000000000000
+)
+
+(TClr.208
+)
+
+(NFont.209
+	Family:	210
+	Name:	211
+	Style:	212
+	CommonFamily:	213
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.210
+	S:	"Arial"
+)
+
+(AVStr.211
+	S:	"Arial Kursiv"
+)
+
+(AVStr.212
+	S:	"Kursiv"
+)
+
+(AVStr.213
+	S:	"Helvetica"
+)
+
+(TClr.214
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.215
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.216
+	Color:	217
+	Font:	218
+	BgColor:	223
+	OlColor:	224
+	Size:	12.00000000000000
+)
+
+(TClr.217
+)
+
+(NFont.218
+	Family:	219
+	Name:	220
+	Style:	221
+	CommonFamily:	222
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.219
+	S:	"Arial"
+)
+
+(AVStr.220
+	S:	"Arial Kursiv"
+)
+
+(AVStr.221
+	S:	"Kursiv"
+)
+
+(AVStr.222
+	S:	"Helvetica"
+)
+
+(TClr.223
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.224
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.225
+	Color:	226
+	Font:	227
+	BgColor:	232
+	OlColor:	233
+	Size:	12.00000000000000
+)
+
+(TClr.226
+)
+
+(NFont.227
+	Family:	228
+	Name:	229
+	Style:	230
+	CommonFamily:	231
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.228
+	S:	"Arial"
+)
+
+(AVStr.229
+	S:	"Arial Kursiv"
+)
+
+(AVStr.230
+	S:	"Kursiv"
+)
+
+(AVStr.231
+	S:	"Helvetica"
+)
+
+(TClr.232
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.233
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.234
+	Color:	235
+	Font:	236
+	BgColor:	241
+	OlColor:	242
+	Size:	12.00000000000000
+)
+
+(TClr.235
+)
+
+(NFont.236
+	Family:	237
+	Name:	238
+	Style:	239
+	CommonFamily:	240
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.237
+	S:	"Arial"
+)
+
+(AVStr.238
+	S:	"Arial Kursiv"
+)
+
+(AVStr.239
+	S:	"Kursiv"
+)
+
+(AVStr.240
+	S:	"Helvetica"
+)
+
+(TClr.241
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.242
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.243
+	Color:	244
+	Font:	245
+	BgColor:	250
+	OlColor:	251
+	Size:	12.00000000000000
+)
+
+(TClr.244
+)
+
+(NFont.245
+	Family:	246
+	Name:	247
+	Style:	248
+	CommonFamily:	249
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.246
+	S:	"Arial"
+)
+
+(AVStr.247
+	S:	"Arial Kursiv"
+)
+
+(AVStr.248
+	S:	"Kursiv"
+)
+
+(AVStr.249
+	S:	"Helvetica"
+)
+
+(TClr.250
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.251
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.252
+	Color:	253
+	Font:	254
+	BgColor:	259
+	OlColor:	260
+	Size:	12.00000000000000
+)
+
+(TClr.253
+)
+
+(NFont.254
+	Family:	255
+	Name:	256
+	Style:	257
+	CommonFamily:	258
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.255
+	S:	"Arial"
+)
+
+(AVStr.256
+	S:	"Arial Kursiv"
+)
+
+(AVStr.257
+	S:	"Kursiv"
+)
+
+(AVStr.258
+	S:	"Helvetica"
+)
+
+(TClr.259
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.260
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.261
+	Color:	262
+	Font:	263
+	BgColor:	268
+	OlColor:	269
+	Size:	12.00000000000000
+)
+
+(TClr.262
+)
+
+(NFont.263
+	Family:	264
+	Name:	265
+	Style:	266
+	CommonFamily:	267
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.264
+	S:	"Arial"
+)
+
+(AVStr.265
+	S:	"Arial Kursiv"
+)
+
+(AVStr.266
+	S:	"Kursiv"
+)
+
+(AVStr.267
+	S:	"Helvetica"
+)
+
+(TClr.268
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.269
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.270
+	Color:	271
+	Font:	272
+	BgColor:	277
+	OlColor:	278
+	Size:	12.00000000000000
+)
+
+(TClr.271
+)
+
+(NFont.272
+	Family:	273
+	Name:	274
+	Style:	275
+	CommonFamily:	276
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.273
+	S:	"Arial"
+)
+
+(AVStr.274
+	S:	"Arial Kursiv"
+)
+
+(AVStr.275
+	S:	"Kursiv"
+)
+
+(AVStr.276
+	S:	"Helvetica"
+)
+
+(TClr.277
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.278
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.279
+	Color:	280
+	Font:	281
+	BgColor:	286
+	OlColor:	287
+	Size:	12.00000000000000
+)
+
+(TClr.280
+)
+
+(NFont.281
+	Family:	282
+	Name:	283
+	Style:	284
+	CommonFamily:	285
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.282
+	S:	"Arial"
+)
+
+(AVStr.283
+	S:	"Arial Kursiv"
+)
+
+(AVStr.284
+	S:	"Kursiv"
+)
+
+(AVStr.285
+	S:	"Helvetica"
+)
+
+(TClr.286
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.287
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.288
+	Color:	289
+	Font:	290
+	BgColor:	295
+	OlColor:	296
+	Size:	12.00000000000000
+)
+
+(TClr.289
+)
+
+(NFont.290
+	Family:	291
+	Name:	292
+	Style:	293
+	CommonFamily:	294
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.291
+	S:	"Arial"
+)
+
+(AVStr.292
+	S:	"Arial Kursiv"
+)
+
+(AVStr.293
+	S:	"Kursiv"
+)
+
+(AVStr.294
+	S:	"Helvetica"
+)
+
+(TClr.295
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.296
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.297
+	Color:	298
+	Font:	299
+	BgColor:	304
+	OlColor:	305
+	Size:	12.00000000000000
+)
+
+(TClr.298
+)
+
+(NFont.299
+	Family:	300
+	Name:	301
+	Style:	302
+	CommonFamily:	303
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.300
+	S:	"Arial"
+)
+
+(AVStr.301
+	S:	"Arial Kursiv"
+)
+
+(AVStr.302
+	S:	"Kursiv"
+)
+
+(AVStr.303
+	S:	"Helvetica"
+)
+
+(TClr.304
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.305
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.306
+	Color:	307
+	Font:	308
+	BgColor:	313
+	OlColor:	314
+	Size:	12.00000000000000
+)
+
+(TClr.307
+)
+
+(NFont.308
+	Family:	309
+	Name:	310
+	Style:	311
+	CommonFamily:	312
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.309
+	S:	"Arial"
+)
+
+(AVStr.310
+	S:	"Arial Kursiv"
+)
+
+(AVStr.311
+	S:	"Kursiv"
+)
+
+(AVStr.312
+	S:	"Helvetica"
+)
+
+(TClr.313
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.314
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.315
+	Color:	316
+	Font:	317
+	BgColor:	322
+	OlColor:	323
+	Size:	12.00000000000000
+)
+
+(TClr.316
+)
+
+(NFont.317
+	Family:	318
+	Name:	319
+	Style:	320
+	CommonFamily:	321
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.318
+	S:	"Arial"
+)
+
+(AVStr.319
+	S:	"Arial Kursiv"
+)
+
+(AVStr.320
+	S:	"Kursiv"
+)
+
+(AVStr.321
+	S:	"Helvetica"
+)
+
+(TClr.322
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.323
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.324
+	Color:	325
+	Font:	326
+	BgColor:	331
+	OlColor:	332
+	Size:	12.00000000000000
+)
+
+(TClr.325
+)
+
+(NFont.326
+	Family:	327
+	Name:	328
+	Style:	329
+	CommonFamily:	330
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.327
+	S:	"Arial"
+)
+
+(AVStr.328
+	S:	"Arial Kursiv"
+)
+
+(AVStr.329
+	S:	"Kursiv"
+)
+
+(AVStr.330
+	S:	"Helvetica"
+)
+
+(TClr.331
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.332
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.333
+	Color:	334
+	Font:	335
+	BgColor:	340
+	OlColor:	341
+	Size:	12.00000000000000
+)
+
+(TClr.334
+)
+
+(NFont.335
+	Family:	336
+	Name:	337
+	Style:	338
+	CommonFamily:	339
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.336
+	S:	"Arial"
+)
+
+(AVStr.337
+	S:	"Arial Kursiv"
+)
+
+(AVStr.338
+	S:	"Kursiv"
+)
+
+(AVStr.339
+	S:	"Helvetica"
+)
+
+(TClr.340
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.341
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.342
+	Color:	343
+	Font:	344
+	BgColor:	349
+	OlColor:	350
+	Size:	12.00000000000000
+)
+
+(TClr.343
+)
+
+(NFont.344
+	Family:	345
+	Name:	346
+	Style:	347
+	CommonFamily:	348
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.345
+	S:	"Arial"
+)
+
+(AVStr.346
+	S:	"Arial Kursiv"
+)
+
+(AVStr.347
+	S:	"Kursiv"
+)
+
+(AVStr.348
+	S:	"Helvetica"
+)
+
+(TClr.349
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.350
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.351
+	Color:	352
+	Font:	353
+	BgColor:	358
+	OlColor:	359
+	Size:	12.00000000000000
+)
+
+(TClr.352
+)
+
+(NFont.353
+	Family:	354
+	Name:	355
+	Style:	356
+	CommonFamily:	357
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.354
+	S:	"Arial"
+)
+
+(AVStr.355
+	S:	"Arial Kursiv"
+)
+
+(AVStr.356
+	S:	"Kursiv"
+)
+
+(AVStr.357
+	S:	"Helvetica"
+)
+
+(TClr.358
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.359
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.360
+	Color:	361
+	Font:	362
+	BgColor:	367
+	OlColor:	368
+	Size:	12.00000000000000
+)
+
+(TClr.361
+)
+
+(NFont.362
+	Family:	363
+	Name:	364
+	Style:	365
+	CommonFamily:	366
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.363
+	S:	"Arial"
+)
+
+(AVStr.364
+	S:	"Arial Kursiv"
+)
+
+(AVStr.365
+	S:	"Kursiv"
+)
+
+(AVStr.366
+	S:	"Helvetica"
+)
+
+(TClr.367
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.368
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.369
+	Color:	370
+	Font:	371
+	BgColor:	376
+	OlColor:	377
+	Size:	12.00000000000000
+)
+
+(TClr.370
+)
+
+(NFont.371
+	Family:	372
+	Name:	373
+	Style:	374
+	CommonFamily:	375
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.372
+	S:	"Arial"
+)
+
+(AVStr.373
+	S:	"Arial Kursiv"
+)
+
+(AVStr.374
+	S:	"Kursiv"
+)
+
+(AVStr.375
+	S:	"Helvetica"
+)
+
+(TClr.376
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.377
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.378
+	Color:	379
+	Font:	380
+	BgColor:	385
+	OlColor:	386
+	Size:	12.00000000000000
+)
+
+(TClr.379
+)
+
+(NFont.380
+	Family:	381
+	Name:	382
+	Style:	383
+	CommonFamily:	384
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.381
+	S:	"Arial"
+)
+
+(AVStr.382
+	S:	"Arial Kursiv"
+)
+
+(AVStr.383
+	S:	"Kursiv"
+)
+
+(AVStr.384
+	S:	"Helvetica"
+)
+
+(TClr.385
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.386
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.387
+	Color:	388
+	Font:	389
+	BgColor:	394
+	OlColor:	395
+	Size:	12.00000000000000
+)
+
+(TClr.388
+)
+
+(NFont.389
+	Family:	390
+	Name:	391
+	Style:	392
+	CommonFamily:	393
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.390
+	S:	"Arial"
+)
+
+(AVStr.391
+	S:	"Arial Kursiv"
+)
+
+(AVStr.392
+	S:	"Kursiv"
+)
+
+(AVStr.393
+	S:	"Helvetica"
+)
+
+(TClr.394
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.395
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.396
+	Color:	397
+	Font:	398
+	BgColor:	403
+	OlColor:	404
+	Size:	12.00000000000000
+)
+
+(TClr.397
+)
+
+(NFont.398
+	Family:	399
+	Name:	400
+	Style:	401
+	CommonFamily:	402
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.399
+	S:	"Arial"
+)
+
+(AVStr.400
+	S:	"Arial Kursiv"
+)
+
+(AVStr.401
+	S:	"Kursiv"
+)
+
+(AVStr.402
+	S:	"Helvetica"
+)
+
+(TClr.403
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.404
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.405
+	Color:	406
+	Font:	407
+	BgColor:	411
+	OlColor:	412
+	Size:	12.00000000000000
+)
+
+(TClr.406
+)
+
+(NFont.407
+	Family:	408
+	Name:	409
+	Style:	410
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.408
+	S:	"GSDText"
+)
+
+(AVStr.409
+	S:	"GSDText"
+)
+
+(AVStr.410
+	S:	"Normal"
+)
+
+(TClr.411
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.412
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.413
+	Color:	414
+	Font:	415
+	BgColor:	419
+	OlColor:	420
+	Size:	12.00000000000000
+)
+
+(TClr.414
+)
+
+(NFont.415
+	Family:	416
+	Name:	417
+	Style:	418
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.416
+	S:	"GSDText"
+)
+
+(AVStr.417
+	S:	"GSDText"
+)
+
+(AVStr.418
+	S:	"Normal"
+)
+
+(TClr.419
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.420
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.421
+	Color:	422
+	Font:	423
+	BgColor:	427
+	OlColor:	428
+	Size:	12.00000000000000
+)
+
+(TClr.422
+)
+
+(NFont.423
+	Family:	424
+	Name:	425
+	Style:	426
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.424
+	S:	"GSDText"
+)
+
+(AVStr.425
+	S:	"GSDText"
+)
+
+(AVStr.426
+	S:	"Normal"
+)
+
+(TClr.427
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.428
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.429
+	Color:	430
+	Font:	431
+	BgColor:	436
+	OlColor:	437
+	Size:	12.00000000000000
+)
+
+(TClr.430
+)
+
+(NFont.431
+	Family:	432
+	Name:	433
+	Style:	434
+	CommonFamily:	435
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.432
+	S:	"Arial"
+)
+
+(AVStr.433
+	S:	"Arial Kursiv"
+)
+
+(AVStr.434
+	S:	"Kursiv"
+)
+
+(AVStr.435
+	S:	"Helvetica"
+)
+
+(TClr.436
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.437
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.438
+	Color:	439
+	Font:	440
+	BgColor:	445
+	OlColor:	446
+	Size:	12.00000000000000
+)
+
+(TClr.439
+)
+
+(NFont.440
+	Family:	441
+	Name:	442
+	Style:	443
+	CommonFamily:	444
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.441
+	S:	"Arial"
+)
+
+(AVStr.442
+	S:	"Arial Kursiv"
+)
+
+(AVStr.443
+	S:	"Kursiv"
+)
+
+(AVStr.444
+	S:	"Helvetica"
+)
+
+(TClr.445
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.446
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.447
+	Color:	448
+	Font:	449
+	BgColor:	454
+	OlColor:	455
+	Size:	12.00000000000000
+)
+
+(TClr.448
+)
+
+(NFont.449
+	Family:	450
+	Name:	451
+	Style:	452
+	CommonFamily:	453
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.450
+	S:	"Arial"
+)
+
+(AVStr.451
+	S:	"Arial Kursiv"
+)
+
+(AVStr.452
+	S:	"Kursiv"
+)
+
+(AVStr.453
+	S:	"Helvetica"
+)
+
+(TClr.454
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.455
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.456
+	Color:	457
+	Font:	458
+	BgColor:	462
+	OlColor:	463
+	Size:	12.00000000000000
+)
+
+(TClr.457
+)
+
+(NFont.458
+	Family:	459
+	Name:	460
+	Style:	461
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.459
+	S:	"GSDText"
+)
+
+(AVStr.460
+	S:	"GSDText"
+)
+
+(AVStr.461
+	S:	"Normal"
+)
+
+(TClr.462
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.463
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.464
+	Color:	465
+	Font:	466
+	BgColor:	470
+	OlColor:	471
+	Size:	12.00000000000000
+)
+
+(TClr.465
+)
+
+(NFont.466
+	Family:	467
+	Name:	468
+	Style:	469
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.467
+	S:	"GSDText"
+)
+
+(AVStr.468
+	S:	"GSDText"
+)
+
+(AVStr.469
+	S:	"Normal"
+)
+
+(TClr.470
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.471
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.472
+	Color:	473
+	Font:	474
+	BgColor:	479
+	OlColor:	480
+	Size:	12.00000000000000
+)
+
+(TClr.473
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.474
+	Family:	475
+	Name:	476
+	Style:	477
+	CommonFamily:	478
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.475
+	S:	"Arial"
+)
+
+(AVStr.476
+	S:	"Arial Kursiv"
+)
+
+(AVStr.477
+	S:	"Kursiv"
+)
+
+(AVStr.478
+	S:	"Helvetica"
+)
+
+(TClr.479
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.480
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.481
+	Color:	482
+	Font:	483
+	BgColor:	488
+	OlColor:	489
+	Size:	12.00000000000000
+)
+
+(TClr.482
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.483
+	Family:	484
+	Name:	485
+	Style:	486
+	CommonFamily:	487
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.484
+	S:	"Arial"
+)
+
+(AVStr.485
+	S:	"Arial Kursiv"
+)
+
+(AVStr.486
+	S:	"Kursiv"
+)
+
+(AVStr.487
+	S:	"Helvetica"
+)
+
+(TClr.488
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.489
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.490
+	Color:	491
+	Font:	492
+	BgColor:	497
+	OlColor:	498
+	Size:	12.00000000000000
+)
+
+(TClr.491
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.492
+	Family:	493
+	Name:	494
+	Style:	495
+	CommonFamily:	496
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.493
+	S:	"Arial"
+)
+
+(AVStr.494
+	S:	"Arial Kursiv"
+)
+
+(AVStr.495
+	S:	"Kursiv"
+)
+
+(AVStr.496
+	S:	"Helvetica"
+)
+
+(TClr.497
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.498
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.499
+	Color:	500
+	Font:	501
+	BgColor:	506
+	OlColor:	507
+	Size:	12.00000000000000
+)
+
+(TClr.500
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.501
+	Family:	502
+	Name:	503
+	Style:	504
+	CommonFamily:	505
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.502
+	S:	"Arial"
+)
+
+(AVStr.503
+	S:	"Arial Kursiv"
+)
+
+(AVStr.504
+	S:	"Kursiv"
+)
+
+(AVStr.505
+	S:	"Helvetica"
+)
+
+(TClr.506
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.507
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.508
+	Color:	509
+	Font:	510
+	BgColor:	515
+	OlColor:	516
+	Size:	12.00000000000000
+)
+
+(TClr.509
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.510
+	Family:	511
+	Name:	512
+	Style:	513
+	CommonFamily:	514
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.511
+	S:	"Arial"
+)
+
+(AVStr.512
+	S:	"Arial Kursiv"
+)
+
+(AVStr.513
+	S:	"Kursiv"
+)
+
+(AVStr.514
+	S:	"Helvetica"
+)
+
+(TClr.515
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.516
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.517
+	Color:	518
+	Font:	519
+	BgColor:	524
+	OlColor:	525
+	Size:	12.00000000000000
+)
+
+(TClr.518
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.519
+	Family:	520
+	Name:	521
+	Style:	522
+	CommonFamily:	523
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.520
+	S:	"Arial"
+)
+
+(AVStr.521
+	S:	"Arial Kursiv"
+)
+
+(AVStr.522
+	S:	"Kursiv"
+)
+
+(AVStr.523
+	S:	"Helvetica"
+)
+
+(TClr.524
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.525
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.526
+	Color:	527
+	Font:	528
+	BgColor:	533
+	OlColor:	534
+	Size:	12.00000000000000
+)
+
+(TClr.527
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.528
+	Family:	529
+	Name:	530
+	Style:	531
+	CommonFamily:	532
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.529
+	S:	"Arial"
+)
+
+(AVStr.530
+	S:	"Arial Kursiv"
+)
+
+(AVStr.531
+	S:	"Kursiv"
+)
+
+(AVStr.532
+	S:	"Helvetica"
+)
+
+(TClr.533
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.534
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.535
+	Color:	536
+	Font:	537
+	BgColor:	542
+	OlColor:	543
+	Size:	12.00000000000000
+)
+
+(TClr.536
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.537
+	Family:	538
+	Name:	539
+	Style:	540
+	CommonFamily:	541
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.538
+	S:	"Arial"
+)
+
+(AVStr.539
+	S:	"Arial Kursiv"
+)
+
+(AVStr.540
+	S:	"Kursiv"
+)
+
+(AVStr.541
+	S:	"Helvetica"
+)
+
+(TClr.542
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.543
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.544
+	Color:	545
+	Font:	546
+	BgColor:	551
+	OlColor:	552
+	Size:	12.00000000000000
+)
+
+(TClr.545
+)
+
+(NFont.546
+	Family:	547
+	Name:	548
+	Style:	549
+	CommonFamily:	550
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.547
+	S:	"Arial"
+)
+
+(AVStr.548
+	S:	"Arial Kursiv"
+)
+
+(AVStr.549
+	S:	"Kursiv"
+)
+
+(AVStr.550
+	S:	"Helvetica"
+)
+
+(TClr.551
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.552
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.553
+	Color:	554
+	Font:	555
+	BgColor:	560
+	OlColor:	561
+	Size:	12.00000000000000
+)
+
+(TClr.554
+	Red:	0xcacc
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(NFont.555
+	Family:	556
+	Name:	557
+	Style:	558
+	CommonFamily:	559
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.556
+	S:	"Arial"
+)
+
+(AVStr.557
+	S:	"Arial Kursiv"
+)
+
+(AVStr.558
+	S:	"Kursiv"
+)
+
+(AVStr.559
+	S:	"Helvetica"
+)
+
+(TClr.560
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.561
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.562
+	Color:	563
+	Font:	564
+	BgColor:	569
+	OlColor:	570
+	Size:	12.00000000000000
+)
+
+(TClr.563
+	Red:	0xcacc
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(NFont.564
+	Family:	565
+	Name:	566
+	Style:	567
+	CommonFamily:	568
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.565
+	S:	"Arial"
+)
+
+(AVStr.566
+	S:	"Arial Kursiv"
+)
+
+(AVStr.567
+	S:	"Kursiv"
+)
+
+(AVStr.568
+	S:	"Helvetica"
+)
+
+(TClr.569
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.570
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.571
+	Color:	572
+	Font:	573
+	BgColor:	578
+	OlColor:	579
+	Size:	12.00000000000000
+)
+
+(TClr.572
+	Red:	0xcacc
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(NFont.573
+	Family:	574
+	Name:	575
+	Style:	576
+	CommonFamily:	577
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.574
+	S:	"Arial"
+)
+
+(AVStr.575
+	S:	"Arial Kursiv"
+)
+
+(AVStr.576
+	S:	"Kursiv"
+)
+
+(AVStr.577
+	S:	"Helvetica"
+)
+
+(TClr.578
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.579
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.580
+	Color:	581
+	Font:	582
+	BgColor:	586
+	OlColor:	587
+	Size:	12.00000000000000
+)
+
+(TClr.581
+	Red:	0xcacc
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(NFont.582
+	Family:	583
+	Name:	584
+	Style:	585
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.583
+	S:	"GSDText"
+)
+
+(AVStr.584
+	S:	"GSDText"
+)
+
+(AVStr.585
+	S:	"Normal"
+)
+
+(TClr.586
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.587
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.588
+	Color:	589
+	Font:	590
+	BgColor:	594
+	OlColor:	595
+	Size:	12.00000000000000
+)
+
+(TClr.589
+	Red:	0xcacc
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(NFont.590
+	Family:	591
+	Name:	592
+	Style:	593
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.591
+	S:	"GSDText"
+)
+
+(AVStr.592
+	S:	"GSDText"
+)
+
+(AVStr.593
+	S:	"Normal"
+)
+
+(TClr.594
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.595
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.596
+	Color:	597
+	Font:	598
+	BgColor:	603
+	OlColor:	604
+	Size:	12.00000000000000
+)
+
+(TClr.597
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.598
+	Family:	599
+	Name:	600
+	Style:	601
+	CommonFamily:	602
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.599
+	S:	"Arial"
+)
+
+(AVStr.600
+	S:	"Arial Kursiv"
+)
+
+(AVStr.601
+	S:	"Kursiv"
+)
+
+(AVStr.602
+	S:	"Helvetica"
+)
+
+(TClr.603
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.604
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.605
+	Color:	606
+	Font:	607
+	BgColor:	612
+	OlColor:	613
+	Size:	12.00000000000000
+)
+
+(TClr.606
+	Red:	0x9797
+	Green:	0x4747
+	Blue:	0x4949
+)
+
+(NFont.607
+	Family:	608
+	Name:	609
+	Style:	610
+	CommonFamily:	611
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.608
+	S:	"Arial"
+)
+
+(AVStr.609
+	S:	"Arial Kursiv"
+)
+
+(AVStr.610
+	S:	"Kursiv"
+)
+
+(AVStr.611
+	S:	"Helvetica"
+)
+
+(TClr.612
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.613
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.614
+	Color:	615
+	Font:	616
+	BgColor:	621
+	OlColor:	622
+	Size:	12.00000000000000
+)
+
+(TClr.615
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.616
+	Family:	617
+	Name:	618
+	Style:	619
+	CommonFamily:	620
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.617
+	S:	"Arial"
+)
+
+(AVStr.618
+	S:	"Arial Kursiv"
+)
+
+(AVStr.619
+	S:	"Kursiv"
+)
+
+(AVStr.620
+	S:	"Helvetica"
+)
+
+(TClr.621
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.622
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.623
+	Color:	624
+	Font:	625
+	BgColor:	630
+	OlColor:	631
+	Size:	12.00000000000000
+)
+
+(TClr.624
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.625
+	Family:	626
+	Name:	627
+	Style:	628
+	CommonFamily:	629
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.626
+	S:	"Arial"
+)
+
+(AVStr.627
+	S:	"Arial Kursiv"
+)
+
+(AVStr.628
+	S:	"Kursiv"
+)
+
+(AVStr.629
+	S:	"Helvetica"
+)
+
+(TClr.630
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.631
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.632
+	Color:	633
+	Font:	634
+	BgColor:	639
+	OlColor:	640
+	Size:	12.00000000000000
+)
+
+(TClr.633
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.634
+	Family:	635
+	Name:	636
+	Style:	637
+	CommonFamily:	638
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.635
+	S:	"Arial"
+)
+
+(AVStr.636
+	S:	"Arial Kursiv"
+)
+
+(AVStr.637
+	S:	"Kursiv"
+)
+
+(AVStr.638
+	S:	"Helvetica"
+)
+
+(TClr.639
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.640
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.641
+	Color:	642
+	Font:	643
+	BgColor:	648
+	OlColor:	649
+	Size:	12.00000000000000
+)
+
+(TClr.642
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.643
+	Family:	644
+	Name:	645
+	Style:	646
+	CommonFamily:	647
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.644
+	S:	"Arial"
+)
+
+(AVStr.645
+	S:	"Arial Kursiv"
+)
+
+(AVStr.646
+	S:	"Kursiv"
+)
+
+(AVStr.647
+	S:	"Helvetica"
+)
+
+(TClr.648
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.649
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.650
+	Color:	651
+	Font:	652
+	BgColor:	657
+	OlColor:	658
+	Size:	12.00000000000000
+)
+
+(TClr.651
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.652
+	Family:	653
+	Name:	654
+	Style:	655
+	CommonFamily:	656
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.653
+	S:	"Arial"
+)
+
+(AVStr.654
+	S:	"Arial Kursiv"
+)
+
+(AVStr.655
+	S:	"Kursiv"
+)
+
+(AVStr.656
+	S:	"Helvetica"
+)
+
+(TClr.657
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.658
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.659
+	Color:	660
+	Font:	661
+	BgColor:	666
+	OlColor:	667
+	Size:	12.00000000000000
+)
+
+(TClr.660
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.661
+	Family:	662
+	Name:	663
+	Style:	664
+	CommonFamily:	665
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.662
+	S:	"Arial"
+)
+
+(AVStr.663
+	S:	"Arial Kursiv"
+)
+
+(AVStr.664
+	S:	"Kursiv"
+)
+
+(AVStr.665
+	S:	"Helvetica"
+)
+
+(TClr.666
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.667
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.668
+	Color:	669
+	Font:	670
+	BgColor:	675
+	OlColor:	676
+	Size:	12.00000000000000
+)
+
+(TClr.669
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.670
+	Family:	671
+	Name:	672
+	Style:	673
+	CommonFamily:	674
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.671
+	S:	"Arial"
+)
+
+(AVStr.672
+	S:	"Arial Kursiv"
+)
+
+(AVStr.673
+	S:	"Kursiv"
+)
+
+(AVStr.674
+	S:	"Helvetica"
+)
+
+(TClr.675
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.676
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.677
+	Color:	678
+	Font:	679
+	BgColor:	684
+	OlColor:	685
+	Size:	12.00000000000000
+)
+
+(TClr.678
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.679
+	Family:	680
+	Name:	681
+	Style:	682
+	CommonFamily:	683
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.680
+	S:	"Arial"
+)
+
+(AVStr.681
+	S:	"Arial Kursiv"
+)
+
+(AVStr.682
+	S:	"Kursiv"
+)
+
+(AVStr.683
+	S:	"Helvetica"
+)
+
+(TClr.684
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.685
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.686
+	Color:	687
+	Font:	688
+	BgColor:	693
+	OlColor:	694
+	Size:	12.00000000000000
+)
+
+(TClr.687
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.688
+	Family:	689
+	Name:	690
+	Style:	691
+	CommonFamily:	692
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.689
+	S:	"Arial"
+)
+
+(AVStr.690
+	S:	"Arial Kursiv"
+)
+
+(AVStr.691
+	S:	"Kursiv"
+)
+
+(AVStr.692
+	S:	"Helvetica"
+)
+
+(TClr.693
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.694
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.695
+	Color:	696
+	Font:	697
+	BgColor:	702
+	OlColor:	703
+	Size:	12.00000000000000
+)
+
+(TClr.696
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.697
+	Family:	698
+	Name:	699
+	Style:	700
+	CommonFamily:	701
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.698
+	S:	"Arial"
+)
+
+(AVStr.699
+	S:	"Arial Kursiv"
+)
+
+(AVStr.700
+	S:	"Kursiv"
+)
+
+(AVStr.701
+	S:	"Helvetica"
+)
+
+(TClr.702
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.703
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.704
+	Color:	705
+	Font:	706
+	BgColor:	711
+	OlColor:	712
+	Size:	12.00000000000000
+)
+
+(TClr.705
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.706
+	Family:	707
+	Name:	708
+	Style:	709
+	CommonFamily:	710
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.707
+	S:	"Arial"
+)
+
+(AVStr.708
+	S:	"Arial Kursiv"
+)
+
+(AVStr.709
+	S:	"Kursiv"
+)
+
+(AVStr.710
+	S:	"Helvetica"
+)
+
+(TClr.711
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.712
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.713
+	Color:	714
+	Font:	715
+	BgColor:	720
+	OlColor:	721
+	Size:	12.00000000000000
+)
+
+(TClr.714
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.715
+	Family:	716
+	Name:	717
+	Style:	718
+	CommonFamily:	719
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.716
+	S:	"Arial"
+)
+
+(AVStr.717
+	S:	"Arial Kursiv"
+)
+
+(AVStr.718
+	S:	"Kursiv"
+)
+
+(AVStr.719
+	S:	"Helvetica"
+)
+
+(TClr.720
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.721
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.722
+	Color:	723
+	Font:	724
+	BgColor:	729
+	OlColor:	730
+	Size:	12.00000000000000
+)
+
+(TClr.723
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.724
+	Family:	725
+	Name:	726
+	Style:	727
+	CommonFamily:	728
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.725
+	S:	"Arial"
+)
+
+(AVStr.726
+	S:	"Arial Kursiv"
+)
+
+(AVStr.727
+	S:	"Kursiv"
+)
+
+(AVStr.728
+	S:	"Helvetica"
+)
+
+(TClr.729
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.730
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.731
+	Color:	732
+	Font:	733
+	BgColor:	738
+	OlColor:	739
+	Size:	12.00000000000000
+)
+
+(TClr.732
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.733
+	Family:	734
+	Name:	735
+	Style:	736
+	CommonFamily:	737
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.734
+	S:	"Arial"
+)
+
+(AVStr.735
+	S:	"Arial Kursiv"
+)
+
+(AVStr.736
+	S:	"Kursiv"
+)
+
+(AVStr.737
+	S:	"Helvetica"
+)
+
+(TClr.738
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.739
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.740
+	Color:	741
+	Font:	742
+	BgColor:	747
+	OlColor:	748
+	Size:	12.00000000000000
+)
+
+(TClr.741
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.742
+	Family:	743
+	Name:	744
+	Style:	745
+	CommonFamily:	746
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.743
+	S:	"Arial"
+)
+
+(AVStr.744
+	S:	"Arial Kursiv"
+)
+
+(AVStr.745
+	S:	"Kursiv"
+)
+
+(AVStr.746
+	S:	"Helvetica"
+)
+
+(TClr.747
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.748
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.749
+	Color:	750
+	Font:	751
+	BgColor:	756
+	OlColor:	757
+	Size:	12.00000000000000
+)
+
+(TClr.750
+	Red:	0xfe
+	Green:	0x6448
+	Blue:	0xfeff
+)
+
+(NFont.751
+	Family:	752
+	Name:	753
+	Style:	754
+	CommonFamily:	755
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.752
+	S:	"Arial"
+)
+
+(AVStr.753
+	S:	"Arial Kursiv"
+)
+
+(AVStr.754
+	S:	"Kursiv"
+)
+
+(AVStr.755
+	S:	"Helvetica"
+)
+
+(TClr.756
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.757
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.758
+	Color:	759
+	Font:	760
+	BgColor:	765
+	OlColor:	766
+	Size:	12.00000000000000
+)
+
+(TClr.759
+	Name:	"Transparent"
+)
+
+(NFont.760
+	Family:	761
+	Name:	762
+	Style:	763
+	CommonFamily:	764
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.761
+	S:	"Arial"
+)
+
+(AVStr.762
+	S:	"Arial"
+)
+
+(AVStr.763
+	S:	"Normal"
+)
+
+(AVStr.764
+	S:	"Helvetica"
+)
+
+(TClr.765
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.766
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(LClass.767
+	Label:	"Bebyggelse, enstaka gård, hus"
+	MinNum:	1.00000000000000
+	MaxNum:	1.00000000000000
+	Precision:	-3
+)
+
+(LClass.768
+	Label:	"Bebyggelse,  by, större gård, mindre stadsdel"
+	MinNum:	2.00000000000000
+	MaxNum:	2.00000000000000
+	Precision:	-3
+)
+
+(LClass.769
+	Label:	"Bebyggelse, by, stadsdel"
+	MinNum:	3.00000000000000
+	MaxNum:	3.00000000000000
+	Precision:	-3
+)
+
+(LClass.770
+	Label:	"Bebyggelse, samhälle, samlad by"
+	MinNum:	4.00000000000000
+	MaxNum:	4.00000000000000
+	Precision:	-3
+)
+
+(LClass.771
+	Label:	"Tätort 200-499 inv"
+	MinNum:	5.00000000000000
+	MaxNum:	5.00000000000000
+	Precision:	-3
+)
+
+(LClass.772
+	Label:	"Tätort 200-499 inv, större stadsdel"
+	MinNum:	6.00000000000000
+	MaxNum:	6.00000000000000
+	Precision:	-3
+)
+
+(LClass.773
+	Label:	"Tätort 2000-9999 inv"
+	MinNum:	7.00000000000000
+	MaxNum:	7.00000000000000
+	Precision:	-3
+)
+
+(LClass.774
+	Label:	"Tätort 10000-49999 inv"
+	MinNum:	8.00000000000000
+	MaxNum:	8.00000000000000
+	Precision:	-3
+)
+
+(LClass.775
+	Label:	"Tätort 50000-  inv"
+	MinNum:	9.00000000000000
+	MaxNum:	9.00000000000000
+	Precision:	-3
+)
+
+(LClass.776
+	Label:	"Herrgård, storleksklass 1"
+	MinNum:	14.00000000000000
+	MaxNum:	14.00000000000000
+	Precision:	-3
+)
+
+(LClass.777
+	Label:	"Slott"
+	MinNum:	15.00000000000000
+	MaxNum:	15.00000000000000
+	Precision:	-3
+)
+
+(LClass.778
+	Label:	"Herrgård, storleksklass 2"
+	MinNum:	16.00000000000000
+	MaxNum:	16.00000000000000
+	Precision:	-3
+)
+
+(LClass.779
+	Label:	"Kyrka, storleksklass 1"
+	MinNum:	17.00000000000000
+	MaxNum:	17.00000000000000
+	Precision:	-3
+)
+
+(LClass.780
+	Label:	"Kyrka, storleksklass 2"
+	MinNum:	18.00000000000000
+	MaxNum:	18.00000000000000
+	Precision:	-3
+)
+
+(LClass.781
+	Label:	"Flygplats, storleksklass 1"
+	MinNum:	24.00000000000000
+	MaxNum:	24.00000000000000
+	Precision:	-3
+)
+
+(LClass.782
+	Label:	"Flygplats, storleksklass 2"
+	MinNum:	25.00000000000000
+	MaxNum:	25.00000000000000
+	Precision:	-3
+)
+
+(LClass.783
+	Label:	"Anläggning, storleksklass 1"
+	MinNum:	27.00000000000000
+	MaxNum:	27.00000000000000
+	Precision:	-3
+)
+
+(LClass.784
+	Label:	"Anläggning, storleksklass 2"
+	MinNum:	28.00000000000000
+	MaxNum:	28.00000000000000
+	Precision:	-3
+)
+
+(LClass.785
+	Label:	"Kommun"
+	MinNum:	34.00000000000000
+	MaxNum:	34.00000000000000
+	Precision:	-3
+)
+
+(LClass.786
+	Label:	"Enklav, storleksklass 1"
+	MinNum:	35.00000000000000
+	MaxNum:	35.00000000000000
+	Precision:	-3
+)
+
+(LClass.787
+	Label:	"Församling, storleksklass 1 eller enklav, storleksklass 2"
+	MinNum:	36.00000000000000
+	MaxNum:	36.00000000000000
+	Precision:	-3
+)
+
+(LClass.788
+	Label:	"Församling, storleksklass 3"
+	MinNum:	37.00000000000000
+	MaxNum:	37.00000000000000
+	Precision:	-3
+)
+
+(LClass.789
+	Label:	"Församling, storleksklass 3"
+	MinNum:	38.00000000000000
+	MaxNum:	38.00000000000000
+	Precision:	-3
+)
+
+(LClass.790
+	Label:	"Avgränsat område med namn, storleksklass 1"
+	MinNum:	42.00000000000000
+	MaxNum:	42.00000000000000
+	Precision:	-3
+)
+
+(LClass.791
+	Label:	"Avgränsat område med namn, storleksklass 2"
+	MinNum:	43.00000000000000
+	MaxNum:	43.00000000000000
+	Precision:	-3
+)
+
+(LClass.792
+	Label:	"Avgränsat område med namn, storleksklass 3"
+	MinNum:	44.00000000000000
+	MaxNum:	44.00000000000000
+	Precision:	-3
+)
+
+(LClass.793
+	Label:	"Avgränsat område med namn, storleksklass 4"
+	MinNum:	45.00000000000000
+	MaxNum:	45.00000000000000
+	Precision:	-3
+)
+
+(LClass.794
+	Label:	"Avgränsat område med namn, storleksklass 5"
+	MinNum:	46.00000000000000
+	MaxNum:	46.00000000000000
+	Precision:	-3
+)
+
+(LClass.795
+	Label:	"Avgränsat område med namn, storleksklass 6"
+	MinNum:	47.00000000000000
+	MaxNum:	47.00000000000000
+	Precision:	-3
+)
+
+(LClass.796
+	Label:	"Avgränsat område med namn, storleksklass 7"
+	MinNum:	48.00000000000000
+	MaxNum:	48.00000000000000
+	Precision:	-3
+)
+
+(LClass.797
+	Label:	"Avgränsat område med namn, storleksklass 8"
+	MinNum:	49.00000000000000
+	MaxNum:	49.00000000000000
+	Precision:	-3
+)
+
+(LClass.798
+	Label:	"Naturobjekt, terräng och sankmark, storleksklass 1"
+	MinNum:	51.00000000000000
+	MaxNum:	51.00000000000000
+	Precision:	-3
+)
+
+(LClass.799
+	Label:	"Naturobjekt, terräng och sankmark, storleksklass 2"
+	MinNum:	52.00000000000000
+	MaxNum:	52.00000000000000
+	Precision:	-3
+)
+
+(LClass.800
+	Label:	"Naturobjekt, terräng och sankmark, storleksklass 3"
+	MinNum:	53.00000000000000
+	MaxNum:	53.00000000000000
+	Precision:	-3
+)
+
+(LClass.801
+	Label:	"Naturobjekt, terräng och sankmark, storleksklass 4"
+	MinNum:	54.00000000000000
+	MaxNum:	54.00000000000000
+	Precision:	-3
+)
+
+(LClass.802
+	Label:	"Naturobjekt, terräng och sankmark, storleksklass 5"
+	MinNum:	55.00000000000000
+	MaxNum:	55.00000000000000
+	Precision:	-3
+)
+
+(LClass.803
+	Label:	"Naturobjekt, terräng och sankmark, storleksklass 6"
+	MinNum:	56.00000000000000
+	MaxNum:	56.00000000000000
+	Precision:	-3
+)
+
+(LClass.804
+	Label:	"Naturobjekt, terräng och sankmark, storleksklass 7"
+	MinNum:	57.00000000000000
+	MaxNum:	57.00000000000000
+	Precision:	-3
+)
+
+(LClass.805
+	Label:	"Naturobjekt, terräng och sankmark, storleksklass 8"
+	MinNum:	58.00000000000000
+	MaxNum:	58.00000000000000
+	Precision:	-3
+)
+
+(LClass.806
+	Label:	"Naturobjekt, terräng och sankmark, storleksklass 9"
+	MinNum:	59.00000000000000
+	MaxNum:	59.00000000000000
+	Precision:	-3
+)
+
+(LClass.807
+	Label:	"Upplysningstext, storleksklass 1"
+	MinNum:	61.00000000000000
+	MaxNum:	61.00000000000000
+	Precision:	-3
+)
+
+(LClass.808
+	Label:	"Upplysningstext, storleksklass 2"
+	MinNum:	62.00000000000000
+	MaxNum:	62.00000000000000
+	Precision:	-3
+)
+
+(LClass.809
+	Label:	"Upplysningstext, storleksklass 3"
+	MinNum:	63.00000000000000
+	MaxNum:	63.00000000000000
+	Precision:	-3
+)
+
+(LClass.810
+	Label:	"Upplysningstext, storleksklass 4"
+	MinNum:	64.00000000000000
+	MaxNum:	64.00000000000000
+	Precision:	-3
+)
+
+(LClass.811
+	Label:	"Upplysningstext, storleksklass 5"
+	MinNum:	65.00000000000000
+	MaxNum:	65.00000000000000
+	Precision:	-3
+)
+
+(LClass.812
+	Label:	"Upplysningstext, storleksklass 6"
+	MinNum:	66.00000000000000
+	MaxNum:	66.00000000000000
+	Precision:	-3
+)
+
+(LClass.813
+	Label:	"Upplysningstext, storleksklass 7"
+	MinNum:	67.00000000000000
+	MaxNum:	67.00000000000000
+	Precision:	-3
+)
+
+(LClass.814
+	Label:	"Fyr, storleksklass 1"
+	MinNum:	71.00000000000000
+	MaxNum:	71.00000000000000
+	Precision:	-3
+)
+
+(LClass.815
+	Label:	"Fyr, storleksklass 2"
+	MinNum:	72.00000000000000
+	MaxNum:	72.00000000000000
+	Precision:	-3
+)
+
+(LClass.816
+	Label:	"Fornlämning, större byggnad"
+	MinNum:	73.00000000000000
+	MaxNum:	73.00000000000000
+	Precision:	-3
+)
+
+(LClass.817
+	Label:	"Fornlämning"
+	MinNum:	74.00000000000000
+	MaxNum:	74.00000000000000
+	Precision:	-3
+)
+
+(LClass.818
+	Label:	"Bebyggelselämning"
+	MinNum:	75.00000000000000
+	MaxNum:	75.00000000000000
+	Precision:	-3
+)
+
+(LClass.819
+	Label:	"Höjdvärde"
+	MinNum:	76.00000000000000
+	MaxNum:	76.00000000000000
+	Precision:	-3
+)
+
+(LClass.820
+	Label:	"Riksröse"
+	MinNum:	78.00000000000000
+	MaxNum:	78.00000000000000
+	Precision:	-3
+)
+
+(LClass.821
+	Label:	"Vägnummer"
+	MinNum:	79.00000000000000
+	MaxNum:	79.00000000000000
+	Precision:	-3
+)
+
+(LClass.822
+	Label:	"Vattendrag, storleksklass 1"
+	MinNum:	82.00000000000000
+	MaxNum:	82.00000000000000
+	Precision:	-3
+)
+
+(LClass.823
+	Label:	"Vattendrag, storleksklass 2"
+	MinNum:	83.00000000000000
+	MaxNum:	83.00000000000000
+	Precision:	-3
+)
+
+(LClass.824
+	Label:	"Vattendrag, storleksklass 3"
+	MinNum:	84.00000000000000
+	MaxNum:	84.00000000000000
+	Precision:	-3
+)
+
+(LClass.825
+	Label:	"Vattendrag, storleksklass 4"
+	MinNum:	85.00000000000000
+	MaxNum:	85.00000000000000
+	Precision:	-3
+)
+
+(LClass.826
+	Label:	"Vattendrag, storleksklass 5"
+	MinNum:	86.00000000000000
+	MaxNum:	86.00000000000000
+	Precision:	-3
+)
+
+(LClass.827
+	Label:	"Vattendrag, storleksklass 6"
+	MinNum:	87.00000000000000
+	MaxNum:	87.00000000000000
+	Precision:	-3
+)
+
+(LClass.828
+	Label:	"Vattendrag, storleksklass 7"
+	MinNum:	88.00000000000000
+	MaxNum:	88.00000000000000
+	Precision:	-3
+)
+
+(LClass.829
+	Label:	"Vattendrag, storleksklass 8"
+	MinNum:	89.00000000000000
+	MaxNum:	89.00000000000000
+	Precision:	-3
+)
+
+(LClass.830
+	Label:	"Djupsiffra"
+	MinNum:	91.00000000000000
+	MaxNum:	91.00000000000000
+	Precision:	-3
+)
+
+(LClass.831
+	Label:	"Upplysningstext/Varningstext"
+	MinNum:	92.00000000000000
+	MaxNum:	92.00000000000000
+	Precision:	-3
+)
+
+(LClass.832
+	Label:	"Upplysningstext/Varningstext"
+	MinNum:	93.00000000000000
+	MaxNum:	93.00000000000000
+	Precision:	-3
+)
+
+(LClass.833
+	Label:	"Upplysningstext/Varningstext"
+	MinNum:	94.00000000000000
+	MaxNum:	94.00000000000000
+	Precision:	-3
+)
+
+(LClass.834
+	Label:	"Upplysningstext/Varningstext"
+	MinNum:	96.00000000000000
+	MaxNum:	96.00000000000000
+	Precision:	-3
+)
+
+(LClass.835
+	Label:	"Upplysningstext/Varningstext"
+	MinNum:	97.00000000000000
+	MaxNum:	97.00000000000000
+	Precision:	-3
+)
+
+(LClass.836
+	Label:	"Djupkurvsiffra"
+	MinNum:	98.00000000000000
+	MaxNum:	98.00000000000000
+	Precision:	-3
+)
+
+(LClass.837
+	Label:	"Höjdkurvsiffra"
+	MinNum:	99.00000000000000
+	MaxNum:	99.00000000000000
+	Precision:	-3
+)
+
+(LClass.838
+	Label:	"Sjö, storleksklass 1"
+	MinNum:	182.00000000000000
+	MaxNum:	182.00000000000000
+	Precision:	-3
+)
+
+(LClass.839
+	Label:	"Sjö, storleksklass 2"
+	MinNum:	183.00000000000000
+	MaxNum:	183.00000000000000
+	Precision:	-3
+)
+
+(LClass.840
+	Label:	"Sjö, storleksklass 3"
+	MinNum:	184.00000000000000
+	MaxNum:	184.00000000000000
+	Precision:	-3
+)
+
+(LClass.841
+	Label:	"Sjö, storleksklass 4"
+	MinNum:	185.00000000000000
+	MaxNum:	185.00000000000000
+	Precision:	-3
+)
+
+(LClass.842
+	Label:	"Sjö, storleksklass 5"
+	MinNum:	186.00000000000000
+	MaxNum:	186.00000000000000
+	Precision:	-3
+)
+
+(LClass.843
+	Label:	"Sjö, storleksklass 6"
+	MinNum:	187.00000000000000
+	MaxNum:	187.00000000000000
+	Precision:	-3
+)
+
+(LClass.844
+	Label:	"Sjö, storleksklass 7"
+	MinNum:	188.00000000000000
+	MaxNum:	188.00000000000000
+	Precision:	-3
+)
+
+(LClass.845
+	Label:	"Sjö, storleksklass 8"
+	MinNum:	189.00000000000000
+	MaxNum:	189.00000000000000
+	Precision:	-3
+)
+
+(LClass.846
+	Label:	"Del av vatten, storleksklass 1"
+	MinNum:	192.00000000000000
+	MaxNum:	192.00000000000000
+	Precision:	-3
+)
+
+(LClass.847
+	Label:	"Del av vatten, storleksklass 2"
+	MinNum:	193.00000000000000
+	MaxNum:	193.00000000000000
+	Precision:	-3
+)
+
+(LClass.848
+	Label:	"Del av vatten, storleksklass 3"
+	MinNum:	194.00000000000000
+	MaxNum:	194.00000000000000
+	Precision:	-3
+)
+
+(LClass.849
+	Label:	"Del av vatten, storleksklass 4"
+	MinNum:	195.00000000000000
+	MaxNum:	195.00000000000000
+	Precision:	-3
+)
+
+(LClass.850
+	Label:	"Del av vatten, storleksklass 5"
+	MinNum:	196.00000000000000
+	MaxNum:	196.00000000000000
+	Precision:	-3
+)
+
+(LClass.851
+	Label:	"Del av vatten, storleksklass 6"
+	MinNum:	197.00000000000000
+	MaxNum:	197.00000000000000
+	Precision:	-3
+)
+
+(LClass.852
+	Label:	"Del av vatten, storleksklass 7"
+	MinNum:	198.00000000000000
+	MaxNum:	198.00000000000000
+	Precision:	-3
+)
+
+(LClass.853
+	Label:	"Del av vatten, storleksklass 8"
+	MinNum:	199.00000000000000
+	MaxNum:	199.00000000000000
+	Precision:	-3
+)
+
+(LClass.854
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(TxSym.855
+	Color:	856
+	Font:	857
+	BgColor:	862
+	OlColor:	863
+	Size:	12.00000000000000
+)
+
+(TClr.856
+	Name:	"Transparent"
+)
+
+(NFont.857
+	Family:	858
+	Name:	859
+	Style:	860
+	CommonFamily:	861
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.858
+	S:	"Arial"
+)
+
+(AVStr.859
+	S:	"Arial"
+)
+
+(AVStr.860
+	S:	"Normal"
+)
+
+(AVStr.861
+	S:	"Helvetica"
+)
+
+(TClr.862
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.863
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(NameDict.864
+)
+
+(NameDict.865
+)
+

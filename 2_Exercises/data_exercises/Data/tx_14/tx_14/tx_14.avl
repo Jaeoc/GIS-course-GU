@@ -1,0 +1,3217 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x03
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	478
+	Class:	479
+	Class:	480
+	Class:	481
+	Class:	482
+	Class:	483
+	Class:	484
+	Class:	485
+	Class:	486
+	Class:	487
+	Class:	488
+	Class:	489
+	Class:	490
+	Class:	491
+	Class:	492
+	Class:	493
+	Class:	494
+	Class:	495
+	Class:	496
+	Class:	497
+	Class:	498
+	Class:	499
+	Class:	500
+	Class:	501
+	Class:	502
+	Class:	503
+	Class:	504
+	Class:	505
+	Class:	506
+	Class:	507
+	Class:	508
+	Class:	509
+	Class:	510
+	Class:	511
+	Class:	512
+	Class:	513
+	Class:	514
+	Class:	515
+	Class:	516
+	Class:	517
+	Class:	518
+	Class:	519
+	Class:	520
+	Class:	521
+	Class:	522
+	Class:	523
+	Class:	524
+	Class:	525
+	Class:	526
+	Class:	527
+	Class:	528
+	Class:	529
+	Class:	530
+	Class:	531
+	Class:	532
+	Class:	533
+	Class:	534
+	Class:	535
+	Class:	536
+	StdDevs:	1.00000000000000
+	NullSym:	537
+	NullValues:	546
+	StatValues:	547
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Kkod"
+)
+
+(SymList.4
+	Child:	5
+	Child:	13
+	Child:	21
+	Child:	29
+	Child:	37
+	Child:	45
+	Child:	53
+	Child:	61
+	Child:	69
+	Child:	77
+	Child:	85
+	Child:	93
+	Child:	101
+	Child:	109
+	Child:	117
+	Child:	125
+	Child:	133
+	Child:	141
+	Child:	149
+	Child:	157
+	Child:	165
+	Child:	173
+	Child:	181
+	Child:	189
+	Child:	197
+	Child:	205
+	Child:	213
+	Child:	221
+	Child:	229
+	Child:	237
+	Child:	245
+	Child:	253
+	Child:	261
+	Child:	269
+	Child:	277
+	Child:	285
+	Child:	293
+	Child:	301
+	Child:	309
+	Child:	317
+	Child:	325
+	Child:	333
+	Child:	341
+	Child:	349
+	Child:	357
+	Child:	365
+	Child:	373
+	Child:	381
+	Child:	389
+	Child:	397
+	Child:	405
+	Child:	413
+	Child:	421
+	Child:	429
+	Child:	437
+	Child:	445
+	Child:	453
+	Child:	461
+	Child:	469
+)
+
+(TxSym.5
+	Color:	6
+	Font:	7
+	BgColor:	11
+	OlColor:	12
+	Size:	12.00000000000000
+)
+
+(TClr.6
+)
+
+(NFont.7
+	Family:	8
+	Name:	9
+	Style:	10
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.8
+	S:	"GSDText Narrow"
+)
+
+(AVStr.9
+	S:	"GSDText Smal"
+)
+
+(AVStr.10
+	S:	"Normal"
+)
+
+(TClr.11
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.12
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.13
+	Color:	14
+	Font:	15
+	BgColor:	19
+	OlColor:	20
+	Size:	12.00000000000000
+)
+
+(TClr.14
+)
+
+(NFont.15
+	Family:	16
+	Name:	17
+	Style:	18
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.16
+	S:	"GSDText Narrow"
+)
+
+(AVStr.17
+	S:	"GSDText Smal"
+)
+
+(AVStr.18
+	S:	"Normal"
+)
+
+(TClr.19
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.20
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.21
+	Color:	22
+	Font:	23
+	BgColor:	27
+	OlColor:	28
+	Size:	12.00000000000000
+)
+
+(TClr.22
+)
+
+(NFont.23
+	Family:	24
+	Name:	25
+	Style:	26
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.24
+	S:	"GSDText Narrow"
+)
+
+(AVStr.25
+	S:	"GSDText Smal"
+)
+
+(AVStr.26
+	S:	"Normal"
+)
+
+(TClr.27
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.28
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.29
+	Color:	30
+	Font:	31
+	BgColor:	35
+	OlColor:	36
+	Size:	12.00000000000000
+)
+
+(TClr.30
+)
+
+(NFont.31
+	Family:	32
+	Name:	33
+	Style:	34
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.32
+	S:	"GSDText"
+)
+
+(AVStr.33
+	S:	"GSDText"
+)
+
+(AVStr.34
+	S:	"Normal"
+)
+
+(TClr.35
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.36
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.37
+	Color:	38
+	Font:	39
+	BgColor:	43
+	OlColor:	44
+	Size:	12.00000000000000
+)
+
+(TClr.38
+)
+
+(NFont.39
+	Family:	40
+	Name:	41
+	Style:	42
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.40
+	S:	"GSDText"
+)
+
+(AVStr.41
+	S:	"GSDText Fet"
+)
+
+(AVStr.42
+	S:	"Fet"
+)
+
+(TClr.43
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.44
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.45
+	Color:	46
+	Font:	47
+	BgColor:	51
+	OlColor:	52
+	Size:	12.00000000000000
+)
+
+(TClr.46
+)
+
+(NFont.47
+	Family:	48
+	Name:	49
+	Style:	50
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.48
+	S:	"GSDText"
+)
+
+(AVStr.49
+	S:	"GSDText Fet"
+)
+
+(AVStr.50
+	S:	"Fet"
+)
+
+(TClr.51
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.52
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.53
+	Color:	54
+	Font:	55
+	BgColor:	59
+	OlColor:	60
+	Size:	12.00000000000000
+)
+
+(TClr.54
+)
+
+(NFont.55
+	Family:	56
+	Name:	57
+	Style:	58
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.56
+	S:	"GSDText"
+)
+
+(AVStr.57
+	S:	"GSDText Fet"
+)
+
+(AVStr.58
+	S:	"Fet"
+)
+
+(TClr.59
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.60
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.61
+	Color:	62
+	Font:	63
+	BgColor:	67
+	OlColor:	68
+	Size:	12.00000000000000
+)
+
+(TClr.62
+)
+
+(NFont.63
+	Family:	64
+	Name:	65
+	Style:	66
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.64
+	S:	"GSDText"
+)
+
+(AVStr.65
+	S:	"GSDText Fet"
+)
+
+(AVStr.66
+	S:	"Fet"
+)
+
+(TClr.67
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.68
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.69
+	Color:	70
+	Font:	71
+	BgColor:	75
+	OlColor:	76
+	Size:	12.00000000000000
+)
+
+(TClr.70
+)
+
+(NFont.71
+	Family:	72
+	Name:	73
+	Style:	74
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.72
+	S:	"GSDText Narrow"
+)
+
+(AVStr.73
+	S:	"GSDText Smal"
+)
+
+(AVStr.74
+	S:	"Normal"
+)
+
+(TClr.75
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.76
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.77
+	Color:	78
+	Font:	79
+	BgColor:	83
+	OlColor:	84
+	Size:	12.00000000000000
+)
+
+(TClr.78
+)
+
+(NFont.79
+	Family:	80
+	Name:	81
+	Style:	82
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.80
+	S:	"GSDText Narrow"
+)
+
+(AVStr.81
+	S:	"GSDText Smal"
+)
+
+(AVStr.82
+	S:	"Normal"
+)
+
+(TClr.83
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.84
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.85
+	Color:	86
+	Font:	87
+	BgColor:	91
+	OlColor:	92
+	Size:	12.00000000000000
+)
+
+(TClr.86
+)
+
+(NFont.87
+	Family:	88
+	Name:	89
+	Style:	90
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.88
+	S:	"GSDText Narrow"
+)
+
+(AVStr.89
+	S:	"GSDText Smal"
+)
+
+(AVStr.90
+	S:	"Normal"
+)
+
+(TClr.91
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.92
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.93
+	Color:	94
+	Font:	95
+	BgColor:	99
+	OlColor:	100
+	Size:	12.00000000000000
+)
+
+(TClr.94
+)
+
+(NFont.95
+	Family:	96
+	Name:	97
+	Style:	98
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.96
+	S:	"GSDText Narrow"
+)
+
+(AVStr.97
+	S:	"GSDText Smal"
+)
+
+(AVStr.98
+	S:	"Normal"
+)
+
+(TClr.99
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.100
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.101
+	Color:	102
+	Font:	103
+	BgColor:	107
+	OlColor:	108
+	Size:	12.00000000000000
+)
+
+(TClr.102
+)
+
+(NFont.103
+	Family:	104
+	Name:	105
+	Style:	106
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.104
+	S:	"GSDText"
+)
+
+(AVStr.105
+	S:	"GSDText Fet"
+)
+
+(AVStr.106
+	S:	"Fet"
+)
+
+(TClr.107
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.108
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.109
+	Color:	110
+	Font:	111
+	BgColor:	115
+	OlColor:	116
+	Size:	12.00000000000000
+)
+
+(TClr.110
+)
+
+(NFont.111
+	Family:	112
+	Name:	113
+	Style:	114
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.112
+	S:	"GSDText"
+)
+
+(AVStr.113
+	S:	"GSDText"
+)
+
+(AVStr.114
+	S:	"Normal"
+)
+
+(TClr.115
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.116
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.117
+	Color:	118
+	Font:	119
+	BgColor:	123
+	OlColor:	124
+	Size:	12.00000000000000
+)
+
+(TClr.118
+)
+
+(NFont.119
+	Family:	120
+	Name:	121
+	Style:	122
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.120
+	S:	"GSDText"
+)
+
+(AVStr.121
+	S:	"GSDText"
+)
+
+(AVStr.122
+	S:	"Normal"
+)
+
+(TClr.123
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.124
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.125
+	Color:	126
+	Font:	127
+	BgColor:	131
+	OlColor:	132
+	Size:	12.00000000000000
+)
+
+(TClr.126
+)
+
+(NFont.127
+	Family:	128
+	Name:	129
+	Style:	130
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.128
+	S:	"GSDText"
+)
+
+(AVStr.129
+	S:	"GSDText"
+)
+
+(AVStr.130
+	S:	"Normal"
+)
+
+(TClr.131
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.132
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.133
+	Color:	134
+	Font:	135
+	BgColor:	139
+	OlColor:	140
+	Size:	12.00000000000000
+)
+
+(TClr.134
+)
+
+(NFont.135
+	Family:	136
+	Name:	137
+	Style:	138
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.136
+	S:	"GSDText Narrow"
+)
+
+(AVStr.137
+	S:	"GSDText Smal"
+)
+
+(AVStr.138
+	S:	"Normal"
+)
+
+(TClr.139
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.140
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.141
+	Color:	142
+	Font:	143
+	BgColor:	147
+	OlColor:	148
+	Size:	12.00000000000000
+)
+
+(TClr.142
+)
+
+(NFont.143
+	Family:	144
+	Name:	145
+	Style:	146
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.144
+	S:	"GSDText Narrow"
+)
+
+(AVStr.145
+	S:	"GSDText Smal"
+)
+
+(AVStr.146
+	S:	"Normal"
+)
+
+(TClr.147
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.148
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.149
+	Color:	150
+	Font:	151
+	BgColor:	155
+	OlColor:	156
+	Size:	12.00000000000000
+)
+
+(TClr.150
+)
+
+(NFont.151
+	Family:	152
+	Name:	153
+	Style:	154
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.152
+	S:	"GSDText Narrow"
+)
+
+(AVStr.153
+	S:	"GSDText Smal"
+)
+
+(AVStr.154
+	S:	"Normal"
+)
+
+(TClr.155
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.156
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.157
+	Color:	158
+	Font:	159
+	BgColor:	163
+	OlColor:	164
+	Size:	12.00000000000000
+)
+
+(TClr.158
+)
+
+(NFont.159
+	Family:	160
+	Name:	161
+	Style:	162
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.160
+	S:	"GSDText"
+)
+
+(AVStr.161
+	S:	"GSDText"
+)
+
+(AVStr.162
+	S:	"Normal"
+)
+
+(TClr.163
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.164
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.165
+	Color:	166
+	Font:	167
+	BgColor:	171
+	OlColor:	172
+	Size:	12.00000000000000
+)
+
+(TClr.166
+)
+
+(NFont.167
+	Family:	168
+	Name:	169
+	Style:	170
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.168
+	S:	"GSDText"
+)
+
+(AVStr.169
+	S:	"GSDText"
+)
+
+(AVStr.170
+	S:	"Normal"
+)
+
+(TClr.171
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.172
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.173
+	Color:	174
+	Font:	175
+	BgColor:	179
+	OlColor:	180
+	Size:	12.00000000000000
+)
+
+(TClr.174
+)
+
+(NFont.175
+	Family:	176
+	Name:	177
+	Style:	178
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.176
+	S:	"GSDText"
+)
+
+(AVStr.177
+	S:	"GSDText"
+)
+
+(AVStr.178
+	S:	"Normal"
+)
+
+(TClr.179
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.180
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.181
+	Color:	182
+	Font:	183
+	BgColor:	187
+	OlColor:	188
+	Size:	12.00000000000000
+)
+
+(TClr.182
+)
+
+(NFont.183
+	Family:	184
+	Name:	185
+	Style:	186
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.184
+	S:	"GSDText"
+)
+
+(AVStr.185
+	S:	"GSDText"
+)
+
+(AVStr.186
+	S:	"Normal"
+)
+
+(TClr.187
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.188
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.189
+	Color:	190
+	Font:	191
+	BgColor:	195
+	OlColor:	196
+	Size:	12.00000000000000
+)
+
+(TClr.190
+)
+
+(NFont.191
+	Family:	192
+	Name:	193
+	Style:	194
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.192
+	S:	"GSDText"
+)
+
+(AVStr.193
+	S:	"GSDText"
+)
+
+(AVStr.194
+	S:	"Normal"
+)
+
+(TClr.195
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.196
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.197
+	Color:	198
+	Font:	199
+	BgColor:	203
+	OlColor:	204
+	Size:	12.00000000000000
+)
+
+(TClr.198
+)
+
+(NFont.199
+	Family:	200
+	Name:	201
+	Style:	202
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.200
+	S:	"GSDText"
+)
+
+(AVStr.201
+	S:	"GSDText"
+)
+
+(AVStr.202
+	S:	"Normal"
+)
+
+(TClr.203
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.204
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.205
+	Color:	206
+	Font:	207
+	BgColor:	211
+	OlColor:	212
+	Size:	12.00000000000000
+)
+
+(TClr.206
+)
+
+(NFont.207
+	Family:	208
+	Name:	209
+	Style:	210
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.208
+	S:	"GSDText"
+)
+
+(AVStr.209
+	S:	"GSDText"
+)
+
+(AVStr.210
+	S:	"Normal"
+)
+
+(TClr.211
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.212
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.213
+	Color:	214
+	Font:	215
+	BgColor:	219
+	OlColor:	220
+	Size:	12.00000000000000
+)
+
+(TClr.214
+)
+
+(NFont.215
+	Family:	216
+	Name:	217
+	Style:	218
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.216
+	S:	"GSDText"
+)
+
+(AVStr.217
+	S:	"GSDText"
+)
+
+(AVStr.218
+	S:	"Normal"
+)
+
+(TClr.219
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.220
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.221
+	Color:	222
+	Font:	223
+	BgColor:	227
+	OlColor:	228
+	Size:	12.00000000000000
+)
+
+(TClr.222
+)
+
+(NFont.223
+	Family:	224
+	Name:	225
+	Style:	226
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.224
+	S:	"GSDText"
+)
+
+(AVStr.225
+	S:	"GSDText"
+)
+
+(AVStr.226
+	S:	"Normal"
+)
+
+(TClr.227
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.228
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.229
+	Color:	230
+	Font:	231
+	BgColor:	235
+	OlColor:	236
+	Size:	12.00000000000000
+)
+
+(TClr.230
+)
+
+(NFont.231
+	Family:	232
+	Name:	233
+	Style:	234
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.232
+	S:	"GSDText Narrow"
+)
+
+(AVStr.233
+	S:	"GSDText Smal"
+)
+
+(AVStr.234
+	S:	"Normal"
+)
+
+(TClr.235
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.236
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.237
+	Color:	238
+	Font:	239
+	BgColor:	243
+	OlColor:	244
+	Size:	12.00000000000000
+)
+
+(TClr.238
+)
+
+(NFont.239
+	Family:	240
+	Name:	241
+	Style:	242
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.240
+	S:	"GSDText Narrow"
+)
+
+(AVStr.241
+	S:	"GSDText Smal Kursiv"
+)
+
+(AVStr.242
+	S:	"Kursiv"
+)
+
+(TClr.243
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.244
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.245
+	Color:	246
+	Font:	247
+	BgColor:	251
+	OlColor:	252
+	Size:	12.00000000000000
+)
+
+(TClr.246
+)
+
+(NFont.247
+	Family:	248
+	Name:	249
+	Style:	250
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.248
+	S:	"GSDText Narrow"
+)
+
+(AVStr.249
+	S:	"GSDText Smal Kursiv"
+)
+
+(AVStr.250
+	S:	"Kursiv"
+)
+
+(TClr.251
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.252
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.253
+	Color:	254
+	Font:	255
+	BgColor:	259
+	OlColor:	260
+	Size:	12.00000000000000
+)
+
+(TClr.254
+)
+
+(NFont.255
+	Family:	256
+	Name:	257
+	Style:	258
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.256
+	S:	"GSDText Narrow"
+)
+
+(AVStr.257
+	S:	"GSDText Smal Kursiv"
+)
+
+(AVStr.258
+	S:	"Kursiv"
+)
+
+(TClr.259
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.260
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.261
+	Color:	262
+	Font:	263
+	BgColor:	267
+	OlColor:	268
+	Size:	12.00000000000000
+)
+
+(TClr.262
+)
+
+(NFont.263
+	Family:	264
+	Name:	265
+	Style:	266
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.264
+	S:	"GSDText Narrow"
+)
+
+(AVStr.265
+	S:	"GSDText Smal Kursiv"
+)
+
+(AVStr.266
+	S:	"Kursiv"
+)
+
+(TClr.267
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.268
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.269
+	Color:	270
+	Font:	271
+	BgColor:	275
+	OlColor:	276
+	Size:	12.00000000000000
+)
+
+(TClr.270
+)
+
+(NFont.271
+	Family:	272
+	Name:	273
+	Style:	274
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.272
+	S:	"GSDText Narrow"
+)
+
+(AVStr.273
+	S:	"GSDText Smal"
+)
+
+(AVStr.274
+	S:	"Normal"
+)
+
+(TClr.275
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.276
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.277
+	Color:	278
+	Font:	279
+	BgColor:	283
+	OlColor:	284
+	Size:	12.00000000000000
+)
+
+(TClr.278
+)
+
+(NFont.279
+	Family:	280
+	Name:	281
+	Style:	282
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.280
+	S:	"GSDText Narrow"
+)
+
+(AVStr.281
+	S:	"GSDText Smal"
+)
+
+(AVStr.282
+	S:	"Normal"
+)
+
+(TClr.283
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.284
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.285
+	Color:	286
+	Font:	287
+	BgColor:	291
+	OlColor:	292
+	Size:	12.00000000000000
+)
+
+(TClr.286
+)
+
+(NFont.287
+	Family:	288
+	Name:	289
+	Style:	290
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.288
+	S:	"GSDText Narrow"
+)
+
+(AVStr.289
+	S:	"GSDText Smal"
+)
+
+(AVStr.290
+	S:	"Normal"
+)
+
+(TClr.291
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.292
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.293
+	Color:	294
+	Font:	295
+	BgColor:	299
+	OlColor:	300
+	Size:	12.00000000000000
+)
+
+(TClr.294
+)
+
+(NFont.295
+	Family:	296
+	Name:	297
+	Style:	298
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.296
+	S:	"GSDText Narrow"
+)
+
+(AVStr.297
+	S:	"GSDText Smal"
+)
+
+(AVStr.298
+	S:	"Normal"
+)
+
+(TClr.299
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.300
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.301
+	Color:	302
+	Font:	303
+	BgColor:	307
+	OlColor:	308
+	Size:	12.00000000000000
+)
+
+(TClr.302
+)
+
+(NFont.303
+	Family:	304
+	Name:	305
+	Style:	306
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.304
+	S:	"GSDText Narrow"
+)
+
+(AVStr.305
+	S:	"GSDText Smal"
+)
+
+(AVStr.306
+	S:	"Normal"
+)
+
+(TClr.307
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.308
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.309
+	Color:	310
+	Font:	311
+	BgColor:	315
+	OlColor:	316
+	Size:	12.00000000000000
+)
+
+(TClr.310
+)
+
+(NFont.311
+	Family:	312
+	Name:	313
+	Style:	314
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.312
+	S:	"GSDText"
+)
+
+(AVStr.313
+	S:	"GSDText Kursiv"
+)
+
+(AVStr.314
+	S:	"Kursiv"
+)
+
+(TClr.315
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.316
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.317
+	Color:	318
+	Font:	319
+	BgColor:	323
+	OlColor:	324
+	Size:	12.00000000000000
+)
+
+(TClr.318
+)
+
+(NFont.319
+	Family:	320
+	Name:	321
+	Style:	322
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.320
+	S:	"GSDText Narrow"
+)
+
+(AVStr.321
+	S:	"GSDText Smal"
+)
+
+(AVStr.322
+	S:	"Normal"
+)
+
+(TClr.323
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.324
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.325
+	Color:	326
+	Font:	327
+	BgColor:	331
+	OlColor:	332
+	Size:	12.00000000000000
+)
+
+(TClr.326
+)
+
+(NFont.327
+	Family:	328
+	Name:	329
+	Style:	330
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.328
+	S:	"GSDText"
+)
+
+(AVStr.329
+	S:	"GSDText Fet"
+)
+
+(AVStr.330
+	S:	"Fet"
+)
+
+(TClr.331
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.332
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.333
+	Color:	334
+	Font:	335
+	BgColor:	339
+	OlColor:	340
+	Size:	12.00000000000000
+)
+
+(TClr.334
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(NFont.335
+	Family:	336
+	Name:	337
+	Style:	338
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.336
+	S:	"GSDText"
+)
+
+(AVStr.337
+	S:	"GSDText Kursiv"
+)
+
+(AVStr.338
+	S:	"Kursiv"
+)
+
+(TClr.339
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.340
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.341
+	Color:	342
+	Font:	343
+	BgColor:	347
+	OlColor:	348
+	Size:	12.00000000000000
+)
+
+(TClr.342
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(NFont.343
+	Family:	344
+	Name:	345
+	Style:	346
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.344
+	S:	"GSDText"
+)
+
+(AVStr.345
+	S:	"GSDText Kursiv"
+)
+
+(AVStr.346
+	S:	"Kursiv"
+)
+
+(TClr.347
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.348
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.349
+	Color:	350
+	Font:	351
+	BgColor:	355
+	OlColor:	356
+	Size:	12.00000000000000
+)
+
+(TClr.350
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(NFont.351
+	Family:	352
+	Name:	353
+	Style:	354
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.352
+	S:	"GSDText"
+)
+
+(AVStr.353
+	S:	"GSDText Kursiv"
+)
+
+(AVStr.354
+	S:	"Kursiv"
+)
+
+(TClr.355
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.356
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.357
+	Color:	358
+	Font:	359
+	BgColor:	363
+	OlColor:	364
+	Size:	12.00000000000000
+)
+
+(TClr.358
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(NFont.359
+	Family:	360
+	Name:	361
+	Style:	362
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.360
+	S:	"GSDText"
+)
+
+(AVStr.361
+	S:	"GSDText Kursiv"
+)
+
+(AVStr.362
+	S:	"Kursiv"
+)
+
+(TClr.363
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.364
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.365
+	Color:	366
+	Font:	367
+	BgColor:	371
+	OlColor:	372
+	Size:	12.00000000000000
+)
+
+(TClr.366
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(NFont.367
+	Family:	368
+	Name:	369
+	Style:	370
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.368
+	S:	"GSDText"
+)
+
+(AVStr.369
+	S:	"GSDText Kursiv"
+)
+
+(AVStr.370
+	S:	"Kursiv"
+)
+
+(TClr.371
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.372
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.373
+	Color:	374
+	Font:	375
+	BgColor:	379
+	OlColor:	380
+	Size:	12.00000000000000
+)
+
+(TClr.374
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(NFont.375
+	Family:	376
+	Name:	377
+	Style:	378
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.376
+	S:	"GSDText"
+)
+
+(AVStr.377
+	S:	"GSDText Kursiv"
+)
+
+(AVStr.378
+	S:	"Kursiv"
+)
+
+(TClr.379
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.380
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.381
+	Color:	382
+	Font:	383
+	BgColor:	387
+	OlColor:	388
+	Size:	12.00000000000000
+)
+
+(TClr.382
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(NFont.383
+	Family:	384
+	Name:	385
+	Style:	386
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.384
+	S:	"GSDText"
+)
+
+(AVStr.385
+	S:	"GSDText Kursiv"
+)
+
+(AVStr.386
+	S:	"Kursiv"
+)
+
+(TClr.387
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.388
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.389
+	Color:	390
+	Font:	391
+	BgColor:	395
+	OlColor:	396
+	Size:	12.00000000000000
+)
+
+(TClr.390
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(NFont.391
+	Family:	392
+	Name:	393
+	Style:	394
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.392
+	S:	"GSDText"
+)
+
+(AVStr.393
+	S:	"GSDText Kursiv"
+)
+
+(AVStr.394
+	S:	"Kursiv"
+)
+
+(TClr.395
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.396
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.397
+	Color:	398
+	Font:	399
+	BgColor:	403
+	OlColor:	404
+	Size:	12.00000000000000
+)
+
+(TClr.398
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(NFont.399
+	Family:	400
+	Name:	401
+	Style:	402
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.400
+	S:	"GSDText"
+)
+
+(AVStr.401
+	S:	"GSDText Kursiv"
+)
+
+(AVStr.402
+	S:	"Kursiv"
+)
+
+(TClr.403
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.404
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.405
+	Color:	406
+	Font:	407
+	BgColor:	411
+	OlColor:	412
+	Size:	12.00000000000000
+)
+
+(TClr.406
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(NFont.407
+	Family:	408
+	Name:	409
+	Style:	410
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.408
+	S:	"GSDText Narrow"
+)
+
+(AVStr.409
+	S:	"GSDText Smal Kursiv"
+)
+
+(AVStr.410
+	S:	"Kursiv"
+)
+
+(TClr.411
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.412
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.413
+	Color:	414
+	Font:	415
+	BgColor:	419
+	OlColor:	420
+	Size:	12.00000000000000
+)
+
+(TClr.414
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(NFont.415
+	Family:	416
+	Name:	417
+	Style:	418
+	Italic:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.416
+	S:	"GSDText Narrow"
+)
+
+(AVStr.417
+	S:	"GSDText Smal Kursiv"
+)
+
+(AVStr.418
+	S:	"Kursiv"
+)
+
+(TClr.419
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.420
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.421
+	Color:	422
+	Font:	423
+	BgColor:	427
+	OlColor:	428
+	Size:	12.00000000000000
+)
+
+(TClr.422
+)
+
+(NFont.423
+	Family:	424
+	Name:	425
+	Style:	426
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.424
+	S:	"GSDText"
+)
+
+(AVStr.425
+	S:	"GSDText Fet"
+)
+
+(AVStr.426
+	S:	"Fet"
+)
+
+(TClr.427
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.428
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.429
+	Color:	430
+	Font:	431
+	BgColor:	435
+	OlColor:	436
+	Size:	12.00000000000000
+)
+
+(TClr.430
+)
+
+(NFont.431
+	Family:	432
+	Name:	433
+	Style:	434
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.432
+	S:	"GSDText"
+)
+
+(AVStr.433
+	S:	"GSDText Fet"
+)
+
+(AVStr.434
+	S:	"Fet"
+)
+
+(TClr.435
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.436
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.437
+	Color:	438
+	Font:	439
+	BgColor:	443
+	OlColor:	444
+	Size:	12.00000000000000
+)
+
+(TClr.438
+)
+
+(NFont.439
+	Family:	440
+	Name:	441
+	Style:	442
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.440
+	S:	"GSDText"
+)
+
+(AVStr.441
+	S:	"GSDText Fet"
+)
+
+(AVStr.442
+	S:	"Fet"
+)
+
+(TClr.443
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.444
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.445
+	Color:	446
+	Font:	447
+	BgColor:	451
+	OlColor:	452
+	Size:	12.00000000000000
+)
+
+(TClr.446
+)
+
+(NFont.447
+	Family:	448
+	Name:	449
+	Style:	450
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.448
+	S:	"GSDText"
+)
+
+(AVStr.449
+	S:	"GSDText Fet"
+)
+
+(AVStr.450
+	S:	"Fet"
+)
+
+(TClr.451
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.452
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.453
+	Color:	454
+	Font:	455
+	BgColor:	459
+	OlColor:	460
+	Size:	12.00000000000000
+)
+
+(TClr.454
+)
+
+(NFont.455
+	Family:	456
+	Name:	457
+	Style:	458
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.456
+	S:	"GSDText"
+)
+
+(AVStr.457
+	S:	"GSDText Fet"
+)
+
+(AVStr.458
+	S:	"Fet"
+)
+
+(TClr.459
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.460
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.461
+	Color:	462
+	Font:	463
+	BgColor:	467
+	OlColor:	468
+	Size:	12.00000000000000
+)
+
+(TClr.462
+)
+
+(NFont.463
+	Family:	464
+	Name:	465
+	Style:	466
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.464
+	S:	"GSDText"
+)
+
+(AVStr.465
+	S:	"GSDText Fet"
+)
+
+(AVStr.466
+	S:	"Fet"
+)
+
+(TClr.467
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.468
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TxSym.469
+	Color:	470
+	Font:	471
+	BgColor:	476
+	OlColor:	477
+	Size:	12.00000000000000
+)
+
+(TClr.470
+	Name:	"Transparent"
+)
+
+(NFont.471
+	Family:	472
+	Name:	473
+	Style:	474
+	CommonFamily:	475
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.472
+	S:	"Arial"
+)
+
+(AVStr.473
+	S:	"Arial"
+)
+
+(AVStr.474
+	S:	"Normal"
+)
+
+(AVStr.475
+	S:	"Helvetica"
+)
+
+(TClr.476
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.477
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(LClass.478
+	Label:	"Enstaka hus eller gård"
+	MinNum:	1.00000000000000
+	MaxNum:	1.00000000000000
+	Precision:	-3
+)
+
+(LClass.479
+	Label:	"Liten by"
+	MinNum:	2.00000000000000
+	MaxNum:	2.00000000000000
+	Precision:	-3
+)
+
+(LClass.480
+	Label:	"Stor by"
+	MinNum:	3.00000000000000
+	MaxNum:	3.00000000000000
+	Precision:	-3
+)
+
+(LClass.481
+	Label:	"Tätort, större än 100 000 inv"
+	MinNum:	4.00000000000000
+	MaxNum:	4.00000000000000
+	Precision:	-3
+)
+
+(LClass.482
+	Label:	"Tätort, 200 - 1 999 inv"
+	MinNum:	5.00000000000000
+	MaxNum:	5.00000000000000
+	Precision:	-3
+)
+
+(LClass.483
+	Label:	"Tätort, 2 000 - 9 999 inv"
+	MinNum:	7.00000000000000
+	MaxNum:	7.00000000000000
+	Precision:	-3
+)
+
+(LClass.484
+	Label:	"Tätort, 10 000 - 49 999 inv"
+	MinNum:	8.00000000000000
+	MaxNum:	8.00000000000000
+	Precision:	-3
+)
+
+(LClass.485
+	Label:	"Tätort, 50 000 - 99 999 inv"
+	MinNum:	9.00000000000000
+	MaxNum:	9.00000000000000
+	Precision:	-3
+)
+
+(LClass.486
+	Label:	"Annan konc bebyggelse, liten"
+	MinNum:	10.00000000000000
+	MaxNum:	10.00000000000000
+	Precision:	-3
+)
+
+(LClass.487
+	Label:	"Annan konc bebyggelse, stor"
+	MinNum:	11.00000000000000
+	MaxNum:	11.00000000000000
+	Precision:	-3
+)
+
+(LClass.488
+	Label:	"Tätortsdel, liten"
+	MinNum:	12.00000000000000
+	MaxNum:	12.00000000000000
+	Precision:	-3
+)
+
+(LClass.489
+	Label:	"Tätortsdel, mellan"
+	MinNum:	13.00000000000000
+	MaxNum:	13.00000000000000
+	Precision:	-3
+)
+
+(LClass.490
+	Label:	"Tätortsdel, stor"
+	MinNum:	14.00000000000000
+	MaxNum:	14.00000000000000
+	Precision:	-3
+)
+
+(LClass.491
+	Label:	"Annan kyrka, kapell"
+	MinNum:	17.00000000000000
+	MaxNum:	17.00000000000000
+	Precision:	-3
+)
+
+(LClass.492
+	Label:	"Församlingskyrka"
+	MinNum:	18.00000000000000
+	MaxNum:	18.00000000000000
+	Precision:	-3
+)
+
+(LClass.493
+	Label:	"Församlingskyrka inom tätort"
+	MinNum:	19.00000000000000
+	MaxNum:	19.00000000000000
+	Precision:	-3
+)
+
+(LClass.494
+	Label:	"Station, hamn, linbana, annan flygplats m.m."
+	MinNum:	21.00000000000000
+	MaxNum:	21.00000000000000
+	Precision:	-3
+)
+
+(LClass.495
+	Label:	"Trafikflygplats"
+	MinNum:	25.00000000000000
+	MaxNum:	25.00000000000000
+	Precision:	-3
+)
+
+(LClass.496
+	Label:	"Offentlig byggnad t.ex. skola, slott m.m."
+	MinNum:	27.00000000000000
+	MaxNum:	27.00000000000000
+	Precision:	-3
+)
+
+(LClass.497
+	Label:	"Kommun, vanlig"
+	MinNum:	31.00000000000000
+	MaxNum:	31.00000000000000
+	Precision:	-3
+)
+
+(LClass.498
+	Label:	"Kommun, stor"
+	MinNum:	32.00000000000000
+	MaxNum:	32.00000000000000
+	Precision:	-3
+)
+
+(LClass.499
+	Label:	"Landskap"
+	MinNum:	33.00000000000000
+	MaxNum:	33.00000000000000
+	Precision:	-3
+)
+
+(LClass.500
+	Label:	"Naturreservat, litet"
+	MinNum:	41.00000000000000
+	MaxNum:	41.00000000000000
+	Precision:	-3
+)
+
+(LClass.501
+	Label:	"Naturreservat, mellan"
+	MinNum:	42.00000000000000
+	MaxNum:	42.00000000000000
+	Precision:	-3
+)
+
+(LClass.502
+	Label:	"Nationalpark, liten"
+	MinNum:	43.00000000000000
+	MaxNum:	43.00000000000000
+	Precision:	-3
+)
+
+(LClass.503
+	Label:	"Nationalpark, mellan"
+	MinNum:	44.00000000000000
+	MaxNum:	44.00000000000000
+	Precision:	-3
+)
+
+(LClass.504
+	Label:	"Nationalpark, stor"
+	MinNum:	45.00000000000000
+	MaxNum:	45.00000000000000
+	Precision:	-3
+)
+
+(LClass.505
+	Label:	"Naturreservat, stort"
+	MinNum:	47.00000000000000
+	MaxNum:	47.00000000000000
+	Precision:	-3
+)
+
+(LClass.506
+	Label:	"Vandringsled"
+	MinNum:	51.00000000000000
+	MaxNum:	51.00000000000000
+	Precision:	-3
+)
+
+(LClass.507
+	Label:	"Naturnamn, små områden"
+	MinNum:	52.00000000000000
+	MaxNum:	52.00000000000000
+	Precision:	-3
+)
+
+(LClass.508
+	Label:	"Naturnamn, litet område"
+	MinNum:	53.00000000000000
+	MaxNum:	53.00000000000000
+	Precision:	-3
+)
+
+(LClass.509
+	Label:	"Naturnamn, stort område"
+	MinNum:	54.00000000000000
+	MaxNum:	54.00000000000000
+	Precision:	-3
+)
+
+(LClass.510
+	Label:	"Naturnamn, regionalt område"
+	MinNum:	55.00000000000000
+	MaxNum:	55.00000000000000
+	Precision:	-3
+)
+
+(LClass.511
+	Label:	"Upplysningstext, liten"
+	MinNum:	61.00000000000000
+	MaxNum:	61.00000000000000
+	Precision:	-3
+)
+
+(LClass.512
+	Label:	"Upplysningstext, liten"
+	MinNum:	62.00000000000000
+	MaxNum:	62.00000000000000
+	Precision:	-3
+)
+
+(LClass.513
+	Label:	"Upplysningstext, polcirkeln"
+	MinNum:	66.00000000000000
+	MaxNum:	66.00000000000000
+	Precision:	-3
+)
+
+(LClass.514
+	Label:	"Industri, gruva, fyr, sluss, damm m.m."
+	MinNum:	71.00000000000000
+	MaxNum:	71.00000000000000
+	Precision:	-3
+)
+
+(LClass.515
+	Label:	"Fornlämning"
+	MinNum:	74.00000000000000
+	MaxNum:	74.00000000000000
+	Precision:	-3
+)
+
+(LClass.516
+	Label:	"Höjdvärde"
+	MinNum:	76.00000000000000
+	MaxNum:	76.00000000000000
+	Precision:	-3
+)
+
+(LClass.517
+	Label:	"Vägnamn"
+	MinNum:	77.00000000000000
+	MaxNum:	77.00000000000000
+	Precision:	-3
+)
+
+(LClass.518
+	Label:	"Vägnummer"
+	MinNum:	79.00000000000000
+	MaxNum:	79.00000000000000
+	Precision:	-3
+)
+
+(LClass.519
+	Label:	"Vattenyta, mycket litet område"
+	MinNum:	82.00000000000000
+	MaxNum:	82.00000000000000
+	Precision:	-3
+)
+
+(LClass.520
+	Label:	"Vattenyta, litet område"
+	MinNum:	83.00000000000000
+	MaxNum:	83.00000000000000
+	Precision:	-3
+)
+
+(LClass.521
+	Label:	"Vattenyta, stort område"
+	MinNum:	84.00000000000000
+	MaxNum:	84.00000000000000
+	Precision:	-3
+)
+
+(LClass.522
+	Label:	"Vattenyta, regionalt område"
+	MinNum:	85.00000000000000
+	MaxNum:	85.00000000000000
+	Precision:	-3
+)
+
+(LClass.523
+	Label:	"Vattenyta, stort regionalt område"
+	MinNum:	86.00000000000000
+	MaxNum:	86.00000000000000
+	Precision:	-3
+)
+
+(LClass.524
+	Label:	"Djupvärde"
+	MinNum:	91.00000000000000
+	MaxNum:	91.00000000000000
+	Precision:	-3
+)
+
+(LClass.525
+	Label:	"Vattendrag, litet"
+	MinNum:	92.00000000000000
+	MaxNum:	92.00000000000000
+	Precision:	-3
+)
+
+(LClass.526
+	Label:	"Vattendrag, mellan"
+	MinNum:	93.00000000000000
+	MaxNum:	93.00000000000000
+	Precision:	-3
+)
+
+(LClass.527
+	Label:	"Vattendrag, stort"
+	MinNum:	94.00000000000000
+	MaxNum:	94.00000000000000
+	Precision:	-3
+)
+
+(LClass.528
+	Label:	"Sankmark, liten"
+	MinNum:	98.00000000000000
+	MaxNum:	98.00000000000000
+	Precision:	-3
+)
+
+(LClass.529
+	Label:	"Sankmark, stor"
+	MinNum:	99.00000000000000
+	MaxNum:	99.00000000000000
+	Precision:	-3
+)
+
+(LClass.530
+	Label:	"Tätort, kommuncentrum, större än 100 000 inv"
+	MinNum:	104.00000000000000
+	MaxNum:	104.00000000000000
+	Precision:	-3
+)
+
+(LClass.531
+	Label:	"Tätort, kommuncentrum, 200 - 1 999 inv"
+	MinNum:	105.00000000000000
+	MaxNum:	105.00000000000000
+	Precision:	-3
+)
+
+(LClass.532
+	Label:	"Tätort, kommuncentrum, 2 000 - 9 999 inv"
+	MinNum:	107.00000000000000
+	MaxNum:	107.00000000000000
+	Precision:	-3
+)
+
+(LClass.533
+	Label:	"Tätort, kommuncentrum, 10 000 - 49 999 inv"
+	MinNum:	108.00000000000000
+	MaxNum:	108.00000000000000
+	Precision:	-3
+)
+
+(LClass.534
+	Label:	"Tätort, kommuncentrum, 50 000 - 99 999 inv"
+	MinNum:	109.00000000000000
+	MaxNum:	109.00000000000000
+	Precision:	-3
+)
+
+(LClass.535
+	Label:	"Tätortsdel, kommuncentrum"
+	MinNum:	114.00000000000000
+	MaxNum:	114.00000000000000
+	Precision:	-3
+)
+
+(LClass.536
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(TxSym.537
+	Color:	538
+	Font:	539
+	BgColor:	544
+	OlColor:	545
+	Size:	12.00000000000000
+)
+
+(TClr.538
+	Name:	"Transparent"
+)
+
+(NFont.539
+	Family:	540
+	Name:	541
+	Style:	542
+	CommonFamily:	543
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.540
+	S:	"Arial"
+)
+
+(AVStr.541
+	S:	"Arial"
+)
+
+(AVStr.542
+	S:	"Normal"
+)
+
+(AVStr.543
+	S:	"Helvetica"
+)
+
+(TClr.544
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.545
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(NameDict.546
+)
+
+(NameDict.547
+)
+

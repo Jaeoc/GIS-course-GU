@@ -1,0 +1,1851 @@
+/3.1
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	271
+	Class:	272
+	Class:	273
+	Class:	274
+	Class:	275
+	Class:	276
+	Class:	277
+	Class:	278
+	Class:	279
+	Class:	280
+	Class:	281
+	Class:	282
+	Class:	283
+	Class:	284
+	Class:	285
+	Class:	286
+	Class:	287
+	Class:	288
+	Class:	289
+	Class:	290
+	Class:	291
+	Class:	292
+	Class:	293
+	Class:	294
+	Class:	295
+	Class:	296
+	Class:	297
+	Class:	298
+	Class:	299
+	Class:	300
+	Class:	301
+	Class:	302
+	Class:	303
+	Class:	304
+	Class:	305
+	Class:	306
+	Class:	307
+	Class:	308
+	StdDevs:	1.00000000000000
+	NullSym:	309
+	NullValues:	316
+	StatValues:	317
+	RotFieldName:	"Srikt"
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Kkod"
+)
+
+(SymList.4
+	Child:	5
+	Child:	12
+	Child:	19
+	Child:	26
+	Child:	33
+	Child:	40
+	Child:	47
+	Child:	54
+	Child:	61
+	Child:	68
+	Child:	75
+	Child:	82
+	Child:	89
+	Child:	96
+	Child:	103
+	Child:	110
+	Child:	117
+	Child:	124
+	Child:	131
+	Child:	138
+	Child:	145
+	Child:	152
+	Child:	159
+	Child:	166
+	Child:	173
+	Child:	180
+	Child:	187
+	Child:	194
+	Child:	201
+	Child:	208
+	Child:	215
+	Child:	222
+	Child:	229
+	Child:	236
+	Child:	243
+	Child:	250
+	Child:	257
+	Child:	264
+)
+
+(BMkSym.5
+	Color:	6
+	BgColor:	7
+	Font:	8
+	Size:	12.00000000000000
+	Pattern:	98
+	Angle:	360.00000000000000
+)
+
+(TClr.6
+	Red:	0xc5a9
+	Green:	0xdb
+	Blue:	0xdbff
+)
+
+(TClr.7
+	Name:	"Transparent"
+)
+
+(NFont.8
+	Family:	9
+	Name:	10
+	Style:	11
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.9
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.10
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.11
+	S:	"Normal"
+)
+
+(BMkSym.12
+	Color:	13
+	BgColor:	14
+	Font:	15
+	Size:	10.00000000000000
+	Pattern:	107
+	Angle:	360.00000000000000
+)
+
+(TClr.13
+)
+
+(TClr.14
+	Name:	"Transparent"
+)
+
+(NFont.15
+	Family:	16
+	Name:	17
+	Style:	18
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.16
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.17
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.18
+	S:	"Normal"
+)
+
+(BMkSym.19
+	Color:	20
+	BgColor:	21
+	Font:	22
+	Size:	10.00000000000000
+	Pattern:	113
+	Angle:	360.00000000000000
+)
+
+(TClr.20
+)
+
+(TClr.21
+	Name:	"Transparent"
+)
+
+(NFont.22
+	Family:	23
+	Name:	24
+	Style:	25
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.23
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.24
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.25
+	S:	"Normal"
+)
+
+(BMkSym.26
+	Color:	27
+	BgColor:	28
+	Font:	29
+	Size:	10.00000000000000
+	Pattern:	91
+	Angle:	360.00000000000000
+)
+
+(TClr.27
+)
+
+(TClr.28
+	Name:	"Transparent"
+)
+
+(NFont.29
+	Family:	30
+	Name:	31
+	Style:	32
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.30
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.31
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.32
+	S:	"Normal"
+)
+
+(BMkSym.33
+	Color:	34
+	BgColor:	35
+	Font:	36
+	Size:	10.00000000000000
+	Pattern:	114
+	Angle:	360.00000000000000
+)
+
+(TClr.34
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.35
+	Name:	"Transparent"
+)
+
+(NFont.36
+	Family:	37
+	Name:	38
+	Style:	39
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.37
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.38
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.39
+	S:	"Normal"
+)
+
+(BMkSym.40
+	Color:	41
+	BgColor:	42
+	Font:	43
+	Size:	12.00000000000000
+	Pattern:	112
+	Angle:	360.00000000000000
+)
+
+(TClr.41
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.42
+	Name:	"Transparent"
+)
+
+(NFont.43
+	Family:	44
+	Name:	45
+	Style:	46
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.44
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.45
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.46
+	S:	"Normal"
+)
+
+(BMkSym.47
+	Color:	48
+	BgColor:	49
+	Font:	50
+	Size:	12.00000000000000
+	Pattern:	111
+	Angle:	360.00000000000000
+)
+
+(TClr.48
+)
+
+(TClr.49
+	Name:	"Transparent"
+)
+
+(NFont.50
+	Family:	51
+	Name:	52
+	Style:	53
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.51
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.52
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.53
+	S:	"Normal"
+)
+
+(BMkSym.54
+	Color:	55
+	BgColor:	56
+	Font:	57
+	Size:	1.13000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.55
+)
+
+(TClr.56
+	Name:	"Transparent"
+)
+
+(NFont.57
+	Family:	58
+	Name:	59
+	Style:	60
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.58
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.59
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.60
+	S:	"Normal"
+)
+
+(BMkSym.61
+	Color:	62
+	BgColor:	63
+	Font:	64
+	Size:	6.00000000000000
+	Pattern:	74
+	Angle:	360.00000000000000
+)
+
+(TClr.62
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.63
+	Name:	"Transparent"
+)
+
+(NFont.64
+	Family:	65
+	Name:	66
+	Style:	67
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.65
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.66
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.67
+	S:	"Normal"
+)
+
+(BMkSym.68
+	Color:	69
+	BgColor:	70
+	Font:	71
+	Size:	8.00000000000000
+	Pattern:	75
+	Angle:	360.00000000000000
+)
+
+(TClr.69
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.70
+	Name:	"Transparent"
+)
+
+(NFont.71
+	Family:	72
+	Name:	73
+	Style:	74
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.72
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.73
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.74
+	S:	"Normal"
+)
+
+(BMkSym.75
+	Color:	76
+	BgColor:	77
+	Font:	78
+	Size:	8.00000000000000
+	Pattern:	79
+	Angle:	360.00000000000000
+)
+
+(TClr.76
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.77
+	Name:	"Transparent"
+)
+
+(NFont.78
+	Family:	79
+	Name:	80
+	Style:	81
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.79
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.80
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.81
+	S:	"Normal"
+)
+
+(BMkSym.82
+	Color:	83
+	BgColor:	84
+	Font:	85
+	Size:	6.00000000000000
+	Pattern:	77
+	Angle:	360.00000000000000
+)
+
+(TClr.83
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.84
+	Name:	"Transparent"
+)
+
+(NFont.85
+	Family:	86
+	Name:	87
+	Style:	88
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.86
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.87
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.88
+	S:	"Normal"
+)
+
+(BMkSym.89
+	Color:	90
+	BgColor:	91
+	Font:	92
+	Size:	4.00000000000000
+	Pattern:	80
+	Angle:	360.00000000000000
+)
+
+(TClr.90
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.91
+	Name:	"Transparent"
+)
+
+(NFont.92
+	Family:	93
+	Name:	94
+	Style:	95
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.93
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.94
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.95
+	S:	"Normal"
+)
+
+(BMkSym.96
+	Color:	97
+	BgColor:	98
+	Font:	99
+	Size:	6.00000000000000
+	Pattern:	78
+	Angle:	360.00000000000000
+)
+
+(TClr.97
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.98
+	Name:	"Transparent"
+)
+
+(NFont.99
+	Family:	100
+	Name:	101
+	Style:	102
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.100
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.101
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.102
+	S:	"Normal"
+)
+
+(BMkSym.103
+	Color:	104
+	BgColor:	105
+	Font:	106
+	Size:	14.00000000000000
+	Pattern:	76
+	Angle:	360.00000000000000
+)
+
+(TClr.104
+)
+
+(TClr.105
+	Name:	"Transparent"
+)
+
+(NFont.106
+	Family:	107
+	Name:	108
+	Style:	109
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.107
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.108
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.109
+	S:	"Normal"
+)
+
+(BMkSym.110
+	Color:	111
+	BgColor:	112
+	Font:	113
+	Size:	6.00000000000000
+	Pattern:	94
+	Angle:	360.00000000000000
+)
+
+(TClr.111
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.112
+	Name:	"Transparent"
+)
+
+(NFont.113
+	Family:	114
+	Name:	115
+	Style:	116
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.114
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.115
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.116
+	S:	"Normal"
+)
+
+(BMkSym.117
+	Color:	118
+	BgColor:	119
+	Font:	120
+	Size:	14.00000000000000
+	Pattern:	87
+	Angle:	360.00000000000000
+)
+
+(TClr.118
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.119
+	Name:	"Transparent"
+)
+
+(NFont.120
+	Family:	121
+	Name:	122
+	Style:	123
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.121
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.122
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.123
+	S:	"Normal"
+)
+
+(BMkSym.124
+	Color:	125
+	BgColor:	126
+	Font:	127
+	Size:	14.00000000000000
+	Pattern:	82
+	Angle:	360.00000000000000
+)
+
+(TClr.125
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.126
+	Name:	"Transparent"
+)
+
+(NFont.127
+	Family:	128
+	Name:	129
+	Style:	130
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.128
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.129
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.130
+	S:	"Normal"
+)
+
+(BMkSym.131
+	Color:	132
+	BgColor:	133
+	Font:	134
+	Size:	12.00000000000000
+	Pattern:	83
+	Angle:	360.00000000000000
+)
+
+(TClr.132
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.133
+	Name:	"Transparent"
+)
+
+(NFont.134
+	Family:	135
+	Name:	136
+	Style:	137
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.135
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.136
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.137
+	S:	"Normal"
+)
+
+(BMkSym.138
+	Color:	139
+	BgColor:	140
+	Font:	141
+	Size:	4.00000000000000
+	Pattern:	66
+	Angle:	360.00000000000000
+)
+
+(TClr.139
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.140
+	Name:	"Transparent"
+)
+
+(NFont.141
+	Family:	142
+	Name:	143
+	Style:	144
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.142
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.143
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.144
+	S:	"Normal"
+)
+
+(BMkSym.145
+	Color:	146
+	BgColor:	147
+	Font:	148
+	Size:	0.85000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.146
+)
+
+(TClr.147
+	Name:	"Transparent"
+)
+
+(NFont.148
+	Family:	149
+	Name:	150
+	Style:	151
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.149
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.150
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.151
+	S:	"Normal"
+)
+
+(BMkSym.152
+	Color:	153
+	BgColor:	154
+	Font:	155
+	Size:	14.00000000000000
+	Pattern:	89
+	Angle:	360.00000000000000
+)
+
+(TClr.153
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.154
+	Name:	"Transparent"
+)
+
+(NFont.155
+	Family:	156
+	Name:	157
+	Style:	158
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.156
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.157
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.158
+	S:	"Normal"
+)
+
+(BMkSym.159
+	Color:	160
+	BgColor:	161
+	Font:	162
+	Size:	10.00000000000000
+	Pattern:	88
+	Angle:	360.00000000000000
+)
+
+(TClr.160
+)
+
+(TClr.161
+	Name:	"Transparent"
+)
+
+(NFont.162
+	Family:	163
+	Name:	164
+	Style:	165
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.163
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.164
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.165
+	S:	"Normal"
+)
+
+(BMkSym.166
+	Color:	167
+	BgColor:	168
+	Font:	169
+	Size:	14.00000000000000
+	Pattern:	86
+	Angle:	360.00000000000000
+)
+
+(TClr.167
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.168
+	Name:	"Transparent"
+)
+
+(NFont.169
+	Family:	170
+	Name:	171
+	Style:	172
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.170
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.171
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.172
+	S:	"Normal"
+)
+
+(BMkSym.173
+	Color:	174
+	BgColor:	175
+	Font:	176
+	Size:	12.00000000000000
+	Pattern:	90
+	Angle:	360.00000000000000
+)
+
+(TClr.174
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.175
+	Name:	"Transparent"
+)
+
+(NFont.176
+	Family:	177
+	Name:	178
+	Style:	179
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.177
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.178
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.179
+	S:	"Normal"
+)
+
+(BMkSym.180
+	Color:	181
+	BgColor:	182
+	Font:	183
+	Size:	6.00000000000000
+	Pattern:	93
+	Angle:	360.00000000000000
+)
+
+(TClr.181
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.182
+	Name:	"Transparent"
+)
+
+(NFont.183
+	Family:	184
+	Name:	185
+	Style:	186
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.184
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.185
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.186
+	S:	"Normal"
+)
+
+(BMkSym.187
+	Color:	188
+	BgColor:	189
+	Font:	190
+	Size:	12.00000000000000
+	Pattern:	92
+	Angle:	360.00000000000000
+)
+
+(TClr.188
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.189
+	Name:	"Transparent"
+)
+
+(NFont.190
+	Family:	191
+	Name:	192
+	Style:	193
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.191
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.192
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.193
+	S:	"Normal"
+)
+
+(BMkSym.194
+	Color:	195
+	BgColor:	196
+	Font:	197
+	Size:	10.00000000000000
+	Pattern:	85
+	Angle:	360.00000000000000
+)
+
+(TClr.195
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.196
+	Name:	"Transparent"
+)
+
+(NFont.197
+	Family:	198
+	Name:	199
+	Style:	200
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.198
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.199
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.200
+	S:	"Normal"
+)
+
+(BMkSym.201
+	Color:	202
+	BgColor:	203
+	Font:	204
+	Size:	14.00000000000000
+	Pattern:	69
+	Angle:	360.00000000000000
+)
+
+(TClr.202
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.203
+	Name:	"Transparent"
+)
+
+(NFont.204
+	Family:	205
+	Name:	206
+	Style:	207
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.205
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.206
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.207
+	S:	"Normal"
+)
+
+(BMkSym.208
+	Color:	209
+	BgColor:	210
+	Font:	211
+	Size:	12.00000000000000
+	Pattern:	71
+	Angle:	360.00000000000000
+)
+
+(TClr.209
+)
+
+(TClr.210
+	Name:	"Transparent"
+)
+
+(NFont.211
+	Family:	212
+	Name:	213
+	Style:	214
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.212
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.213
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.214
+	S:	"Normal"
+)
+
+(BMkSym.215
+	Color:	216
+	BgColor:	217
+	Font:	218
+	Size:	28.00000000000000
+	Pattern:	72
+	Angle:	360.00000000000000
+)
+
+(TClr.216
+)
+
+(TClr.217
+	Name:	"Transparent"
+)
+
+(NFont.218
+	Family:	219
+	Name:	220
+	Style:	221
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.219
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.220
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.221
+	S:	"Normal"
+)
+
+(BMkSym.222
+	Color:	223
+	BgColor:	224
+	Font:	225
+	Size:	16.00000000000000
+	Pattern:	73
+	Angle:	360.00000000000000
+)
+
+(TClr.223
+)
+
+(TClr.224
+	Name:	"Transparent"
+)
+
+(NFont.225
+	Family:	226
+	Name:	227
+	Style:	228
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.226
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.227
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.228
+	S:	"Normal"
+)
+
+(BMkSym.229
+	Color:	230
+	BgColor:	231
+	Font:	232
+	Size:	24.00000000000000
+	Pattern:	69
+	Angle:	360.00000000000000
+)
+
+(TClr.230
+)
+
+(TClr.231
+	Name:	"Transparent"
+)
+
+(NFont.232
+	Family:	233
+	Name:	234
+	Style:	235
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.233
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.234
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.235
+	S:	"Normal"
+)
+
+(BMkSym.236
+	Color:	237
+	BgColor:	238
+	Font:	239
+	Size:	12.00000000000000
+	Pattern:	81
+	Angle:	360.00000000000000
+)
+
+(TClr.237
+)
+
+(TClr.238
+	Name:	"Transparent"
+)
+
+(NFont.239
+	Family:	240
+	Name:	241
+	Style:	242
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.240
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.241
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.242
+	S:	"Normal"
+)
+
+(BMkSym.243
+	Color:	244
+	BgColor:	245
+	Font:	246
+	Size:	12.00000000000000
+	Pattern:	96
+	Angle:	360.00000000000000
+)
+
+(TClr.244
+	Red:	0xc5a9
+	Green:	0xdb
+	Blue:	0xdbff
+)
+
+(TClr.245
+	Name:	"Transparent"
+)
+
+(NFont.246
+	Family:	247
+	Name:	248
+	Style:	249
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.247
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.248
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.249
+	S:	"Normal"
+)
+
+(BMkSym.250
+	Color:	251
+	BgColor:	252
+	Font:	253
+	Size:	12.00000000000000
+	Pattern:	97
+	Angle:	360.00000000000000
+)
+
+(TClr.251
+	Red:	0xc5a9
+	Green:	0xdb
+	Blue:	0xdbff
+)
+
+(TClr.252
+	Name:	"Transparent"
+)
+
+(NFont.253
+	Family:	254
+	Name:	255
+	Style:	256
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.254
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.255
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.256
+	S:	"Normal"
+)
+
+(BMkSym.257
+	Color:	258
+	BgColor:	259
+	Font:	260
+	Size:	12.00000000000000
+	Pattern:	95
+	Angle:	360.00000000000000
+)
+
+(TClr.258
+	Red:	0xc5a9
+	Green:	0xdb
+	Blue:	0xdbff
+)
+
+(TClr.259
+	Name:	"Transparent"
+)
+
+(NFont.260
+	Family:	261
+	Name:	262
+	Style:	263
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.261
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.262
+	S:	"GSDSymbolsTerrängkartan"
+)
+
+(AVStr.263
+	S:	"Normal"
+)
+
+(BMkSym.264
+	Color:	265
+	BgColor:	266
+	Font:	267
+	Size:	8.00000000000000
+	Pattern:	35
+)
+
+(TClr.265
+	Name:	"Transparent"
+)
+
+(TClr.266
+	Name:	"Transparent"
+)
+
+(NFont.267
+	Family:	268
+	Name:	269
+	Style:	270
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.268
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.269
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.270
+	S:	"Normal"
+)
+
+(LClass.271
+	Label:	"Gästhamn"
+	MinNum:	362.00000000000000
+	MaxNum:	362.00000000000000
+	Precision:	-3
+)
+
+(LClass.272
+	Label:	"Fyr"
+	MinNum:	365.00000000000000
+	MaxNum:	365.00000000000000
+	Precision:	-3
+)
+
+(LClass.273
+	Label:	"Slussport"
+	MinNum:	369.00000000000000
+	MaxNum:	369.00000000000000
+	Precision:	-3
+)
+
+(LClass.274
+	Label:	"Mast"
+	MinNum:	373.00000000000000
+	MaxNum:	373.00000000000000
+	Precision:	-3
+)
+
+(LClass.275
+	Label:	"Brygga"
+	MinNum:	524.00000000000000
+	MaxNum:	524.00000000000000
+	Precision:	-3
+)
+
+(LClass.276
+	Label:	"Liten dammbyggnad"
+	MinNum:	525.00000000000000
+	MaxNum:	525.00000000000000
+	Precision:	-3
+)
+
+(LClass.277
+	Label:	"Dammbyggnad"
+	MinNum:	526.00000000000000
+	MaxNum:	526.00000000000000
+	Precision:	-3
+)
+
+(LClass.278
+	Label:	"Punkt, storleksklass 2, ej specificerad"
+	MinNum:	709.00000000000000
+	MaxNum:	709.00000000000000
+	Precision:	-3
+)
+
+(LClass.279
+	Label:	"Gård"
+	MinNum:	731.00000000000000
+	MaxNum:	731.00000000000000
+	Precision:	-3
+)
+
+(LClass.280
+	Label:	"Herrgård"
+	MinNum:	732.00000000000000
+	MaxNum:	732.00000000000000
+	Precision:	-3
+)
+
+(LClass.281
+	Label:	"Hus, storkesklass 3"
+	MinNum:	733.00000000000000
+	MaxNum:	733.00000000000000
+	Precision:	-3
+)
+
+(LClass.282
+	Label:	"Hus, storkesklass  4"
+	MinNum:	734.00000000000000
+	MaxNum:	734.00000000000000
+	Precision:	-3
+)
+
+(LClass.283
+	Label:	"Hus, storkesklass  1"
+	MinNum:	735.00000000000000
+	MaxNum:	735.00000000000000
+	Precision:	-3
+)
+
+(LClass.284
+	Label:	"Hus, storkesklass  2"
+	MinNum:	736.00000000000000
+	MaxNum:	736.00000000000000
+	Precision:	-3
+)
+
+(LClass.285
+	Label:	"Slott"
+	MinNum:	737.00000000000000
+	MaxNum:	737.00000000000000
+	Precision:	-3
+)
+
+(LClass.286
+	Label:	"Cistern"
+	MinNum:	739.00000000000000
+	MaxNum:	739.00000000000000
+	Precision:	-3
+)
+
+(LClass.287
+	Label:	"Såg"
+	MinNum:	740.00000000000000
+	MaxNum:	740.00000000000000
+	Precision:	-3
+)
+
+(LClass.288
+	Label:	"Kyrka"
+	MinNum:	741.00000000000000
+	MaxNum:	741.00000000000000
+	Precision:	-3
+)
+
+(LClass.289
+	Label:	"Kyrka, mindre"
+	MinNum:	747.00000000000000
+	MaxNum:	747.00000000000000
+	Precision:	-3
+)
+
+(LClass.290
+	Label:	"Klockstapel"
+	MinNum:	748.00000000000000
+	MaxNum:	748.00000000000000
+	Precision:	-3
+)
+
+(LClass.291
+	Label:	"Punkt, storleksklass 1, ej specificerad"
+	MinNum:	749.00000000000000
+	MaxNum:	749.00000000000000
+	Precision:	-3
+)
+
+(LClass.292
+	Label:	"Väderkvarn"
+	MinNum:	753.00000000000000
+	MaxNum:	753.00000000000000
+	Precision:	-3
+)
+
+(LClass.293
+	Label:	"Brädgård"
+	MinNum:	754.00000000000000
+	MaxNum:	754.00000000000000
+	Precision:	-3
+)
+
+(LClass.294
+	Label:	"Såg"
+	MinNum:	755.00000000000000
+	MaxNum:	755.00000000000000
+	Precision:	-3
+)
+
+(LClass.295
+	Label:	"Vindkraftverk"
+	MinNum:	756.00000000000000
+	MaxNum:	756.00000000000000
+	Precision:	-3
+)
+
+(LClass.296
+	Label:	"Skorsten"
+	MinNum:	757.00000000000000
+	MaxNum:	757.00000000000000
+	Precision:	-3
+)
+
+(LClass.297
+	Label:	"Torn"
+	MinNum:	759.00000000000000
+	MaxNum:	759.00000000000000
+	Precision:	-3
+)
+
+(LClass.298
+	Label:	"Begravningsplats"
+	MinNum:	762.00000000000000
+	MaxNum:	762.00000000000000
+	Precision:	-3
+)
+
+(LClass.299
+	Label:	"Idrottsplats"
+	MinNum:	763.00000000000000
+	MaxNum:	763.00000000000000
+	Precision:	-3
+)
+
+(LClass.300
+	Label:	"Fotbollsplan"
+	MinNum:	766.00000000000000
+	MaxNum:	766.00000000000000
+	Precision:	-3
+)
+
+(LClass.301
+	Label:	"Skjutbana"
+	MinNum:	767.00000000000000
+	MaxNum:	767.00000000000000
+	Precision:	-3
+)
+
+(LClass.302
+	Label:	"Skjutbana, mindre"
+	MinNum:	768.00000000000000
+	MaxNum:	768.00000000000000
+	Precision:	-3
+)
+
+(LClass.303
+	Label:	"Travbana"
+	MinNum:	769.00000000000000
+	MaxNum:	769.00000000000000
+	Precision:	-3
+)
+
+(LClass.304
+	Label:	"Kåta"
+	MinNum:	770.00000000000000
+	MaxNum:	770.00000000000000
+	Precision:	-3
+)
+
+(LClass.305
+	Label:	"Vindskydd"
+	MinNum:	775.00000000000000
+	MaxNum:	775.00000000000000
+	Precision:	-3
+)
+
+(LClass.306
+	Label:	"Badplats"
+	MinNum:	777.00000000000000
+	MaxNum:	777.00000000000000
+	Precision:	-3
+)
+
+(LClass.307
+	Label:	"Campingplats"
+	MinNum:	778.00000000000000
+	MaxNum:	778.00000000000000
+	Precision:	-3
+)
+
+(LClass.308
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BMkSym.309
+	Color:	310
+	BgColor:	311
+	Font:	312
+	Size:	8.00000000000000
+	Pattern:	35
+)
+
+(TClr.310
+	Name:	"Transparent"
+)
+
+(TClr.311
+	Name:	"Transparent"
+)
+
+(NFont.312
+	Family:	313
+	Name:	314
+	Style:	315
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.313
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.314
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.315
+	S:	"Normal"
+)
+
+(NameDict.316
+)
+
+(NameDict.317
+)
+
